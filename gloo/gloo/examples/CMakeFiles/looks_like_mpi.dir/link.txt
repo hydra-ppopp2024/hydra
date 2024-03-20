@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++    -rdynamic CMakeFiles/looks_like_mpi.dir/looks_like_mpi.o  -o looks_like_mpi  -L/home/mpi_share/env/gloo_etc/installed/gloo/lib -Wl,-rpath,/home/mpi_share/env/gloo_etc/installed/gloo/lib -lgloo -lpthread 

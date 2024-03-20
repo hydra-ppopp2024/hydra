@@ -1,0 +1,8400 @@
+allreduce start!
+19526.9
+allreduce end!
+allreduce start!
+10.037
+allreduce end!
+allreduce start!
+5.892
+allreduce end!
+allreduce start!
+4.995
+allreduce end!
+allreduce start!
+4.562
+allreduce end!
+allreduce start!
+4.712
+allreduce end!
+allreduce start!
+4.708
+allreduce end!
+allreduce start!
+4.489
+allreduce end!
+allreduce start!
+4.174
+allreduce end!
+allreduce start!
+4.286
+allreduce end!
+allreduce start!
+4.093
+allreduce end!
+allreduce start!
+4.625
+allreduce end!
+allreduce start!
+4.333
+allreduce end!
+allreduce start!
+4.284
+allreduce end!
+allreduce start!
+4.157
+allreduce end!
+allreduce start!
+4.103
+allreduce end!
+allreduce start!
+4.223
+allreduce end!
+allreduce start!
+4.36
+allreduce end!
+allreduce start!
+4.436
+allreduce end!
+allreduce start!
+4.005
+allreduce end!
+allreduce start!
+10.915
+allreduce end!
+allreduce start!
+3.996
+allreduce end!
+allreduce start!
+4.216
+allreduce end!
+allreduce start!
+4.4
+allreduce end!
+allreduce start!
+4.172
+allreduce end!
+allreduce start!
+4.141
+allreduce end!
+allreduce start!
+3.881
+allreduce end!
+allreduce start!
+3.854
+allreduce end!
+allreduce start!
+3.888
+allreduce end!
+allreduce start!
+3.784
+allreduce end!
+allreduce start!
+3.696
+allreduce end!
+allreduce start!
+3.917
+allreduce end!
+allreduce start!
+4.84
+allreduce end!
+allreduce start!
+3.998
+allreduce end!
+allreduce start!
+4.31
+allreduce end!
+allreduce start!
+3.879
+allreduce end!
+allreduce start!
+3.966
+allreduce end!
+allreduce start!
+4.195
+allreduce end!
+allreduce start!
+4.215
+allreduce end!
+allreduce start!
+3.899
+allreduce end!
+allreduce start!
+3.923
+allreduce end!
+allreduce start!
+3.901
+allreduce end!
+allreduce start!
+4.183
+allreduce end!
+allreduce start!
+4.022
+allreduce end!
+allreduce start!
+3.712
+allreduce end!
+allreduce start!
+3.595
+allreduce end!
+allreduce start!
+3.587
+allreduce end!
+allreduce start!
+3.644
+allreduce end!
+allreduce start!
+3.74
+allreduce end!
+allreduce start!
+3.93
+allreduce end!
+allreduce start!
+3.715
+allreduce end!
+allreduce start!
+3.487
+allreduce end!
+allreduce start!
+3.637
+allreduce end!
+allreduce start!
+3.538
+allreduce end!
+allreduce start!
+3.325
+allreduce end!
+allreduce start!
+3.515
+allreduce end!
+allreduce start!
+3.366
+allreduce end!
+allreduce start!
+3.756
+allreduce end!
+allreduce start!
+3.4
+allreduce end!
+allreduce start!
+3.482
+allreduce end!
+allreduce start!
+3.384
+allreduce end!
+allreduce start!
+3.723
+allreduce end!
+allreduce start!
+3.504
+allreduce end!
+allreduce start!
+3.432
+allreduce end!
+allreduce start!
+3.325
+allreduce end!
+allreduce start!
+3.453
+allreduce end!
+allreduce start!
+3.704
+allreduce end!
+allreduce start!
+3.528
+allreduce end!
+allreduce start!
+4.314
+allreduce end!
+allreduce start!
+3.464
+allreduce end!
+allreduce start!
+3.424
+allreduce end!
+allreduce start!
+3.263
+allreduce end!
+allreduce start!
+3.582
+allreduce end!
+allreduce start!
+3.692
+allreduce end!
+allreduce start!
+3.262
+allreduce end!
+allreduce start!
+3.322
+allreduce end!
+allreduce start!
+3.466
+allreduce end!
+allreduce start!
+3.128
+allreduce end!
+allreduce start!
+3.17
+allreduce end!
+allreduce start!
+3.375
+allreduce end!
+allreduce start!
+3.819
+allreduce end!
+allreduce start!
+3.357
+allreduce end!
+allreduce start!
+3.144
+allreduce end!
+allreduce start!
+3.525
+allreduce end!
+allreduce start!
+3.549
+allreduce end!
+allreduce start!
+3.224
+allreduce end!
+allreduce start!
+3.852
+allreduce end!
+allreduce start!
+3.785
+allreduce end!
+allreduce start!
+3.341
+allreduce end!
+allreduce start!
+4.002
+allreduce end!
+allreduce start!
+4.015
+allreduce end!
+allreduce start!
+3.184
+allreduce end!
+allreduce start!
+3.206
+allreduce end!
+allreduce start!
+3.225
+allreduce end!
+allreduce start!
+3.256
+allreduce end!
+allreduce start!
+3.338
+allreduce end!
+allreduce start!
+3.432
+allreduce end!
+allreduce start!
+3.372
+allreduce end!
+allreduce start!
+3.101
+allreduce end!
+allreduce start!
+3.082
+allreduce end!
+allreduce start!
+9575.25
+allreduce end!
+allreduce start!
+6.435
+allreduce end!
+allreduce start!
+5.149
+allreduce end!
+allreduce start!
+4.688
+allreduce end!
+allreduce start!
+4.766
+allreduce end!
+allreduce start!
+4.295
+allreduce end!
+allreduce start!
+12.657
+allreduce end!
+allreduce start!
+6.744
+allreduce end!
+allreduce start!
+5.449
+allreduce end!
+allreduce start!
+5.322
+allreduce end!
+allreduce start!
+5.02
+allreduce end!
+allreduce start!
+5.69
+allreduce end!
+allreduce start!
+12.16
+allreduce end!
+allreduce start!
+6.063
+allreduce end!
+allreduce start!
+10.845
+allreduce end!
+allreduce start!
+12.278
+allreduce end!
+allreduce start!
+6.552
+allreduce end!
+allreduce start!
+5.163
+allreduce end!
+allreduce start!
+4.95
+allreduce end!
+allreduce start!
+4.65
+allreduce end!
+allreduce start!
+5
+allreduce end!
+allreduce start!
+4.794
+allreduce end!
+allreduce start!
+4.72
+allreduce end!
+allreduce start!
+4.64
+allreduce end!
+allreduce start!
+4.583
+allreduce end!
+allreduce start!
+4.647
+allreduce end!
+allreduce start!
+4.838
+allreduce end!
+allreduce start!
+12.23
+allreduce end!
+allreduce start!
+6.647
+allreduce end!
+allreduce start!
+5.44
+allreduce end!
+allreduce start!
+4.947
+allreduce end!
+allreduce start!
+4.989
+allreduce end!
+allreduce start!
+4.95
+allreduce end!
+allreduce start!
+4.908
+allreduce end!
+allreduce start!
+5.099
+allreduce end!
+allreduce start!
+4.885
+allreduce end!
+allreduce start!
+5.034
+allreduce end!
+allreduce start!
+4.814
+allreduce end!
+allreduce start!
+4.608
+allreduce end!
+allreduce start!
+5.08
+allreduce end!
+allreduce start!
+4.965
+allreduce end!
+allreduce start!
+4.503
+allreduce end!
+allreduce start!
+4.756
+allreduce end!
+allreduce start!
+4.673
+allreduce end!
+allreduce start!
+4.41
+allreduce end!
+allreduce start!
+4.556
+allreduce end!
+allreduce start!
+4.707
+allreduce end!
+allreduce start!
+4.64
+allreduce end!
+allreduce start!
+4.461
+allreduce end!
+allreduce start!
+4.248
+allreduce end!
+allreduce start!
+4.856
+allreduce end!
+allreduce start!
+4.155
+allreduce end!
+allreduce start!
+4.228
+allreduce end!
+allreduce start!
+4.384
+allreduce end!
+allreduce start!
+4.3
+allreduce end!
+allreduce start!
+4.451
+allreduce end!
+allreduce start!
+4.361
+allreduce end!
+allreduce start!
+4.183
+allreduce end!
+allreduce start!
+4.32
+allreduce end!
+allreduce start!
+4.453
+allreduce end!
+allreduce start!
+4.88
+allreduce end!
+allreduce start!
+4.2
+allreduce end!
+allreduce start!
+4.37
+allreduce end!
+allreduce start!
+4.387
+allreduce end!
+allreduce start!
+4.302
+allreduce end!
+allreduce start!
+4.275
+allreduce end!
+allreduce start!
+4.274
+allreduce end!
+allreduce start!
+4.295
+allreduce end!
+allreduce start!
+4.324
+allreduce end!
+allreduce start!
+4.191
+allreduce end!
+allreduce start!
+4.548
+allreduce end!
+allreduce start!
+4.085
+allreduce end!
+allreduce start!
+4.08
+allreduce end!
+allreduce start!
+4.051
+allreduce end!
+allreduce start!
+3.962
+allreduce end!
+allreduce start!
+4.281
+allreduce end!
+allreduce start!
+4.575
+allreduce end!
+allreduce start!
+4.017
+allreduce end!
+allreduce start!
+4.063
+allreduce end!
+allreduce start!
+4.552
+allreduce end!
+allreduce start!
+4.16
+allreduce end!
+allreduce start!
+4.117
+allreduce end!
+allreduce start!
+4.022
+allreduce end!
+allreduce start!
+3.884
+allreduce end!
+allreduce start!
+3.908
+allreduce end!
+allreduce start!
+3.803
+allreduce end!
+allreduce start!
+4.117
+allreduce end!
+allreduce start!
+3.966
+allreduce end!
+allreduce start!
+4.014
+allreduce end!
+allreduce start!
+3.945
+allreduce end!
+allreduce start!
+4.057
+allreduce end!
+allreduce start!
+3.821
+allreduce end!
+allreduce start!
+3.791
+allreduce end!
+allreduce start!
+3.809
+allreduce end!
+allreduce start!
+3.888
+allreduce end!
+allreduce start!
+3.798
+allreduce end!
+allreduce start!
+4.142
+allreduce end!
+allreduce start!
+3.772
+allreduce end!
+allreduce start!
+3.916
+allreduce end!
+allreduce start!
+3.691
+allreduce end!
+allreduce start!
+9224.38
+allreduce end!
+allreduce start!
+6.518
+allreduce end!
+allreduce start!
+4.823
+allreduce end!
+allreduce start!
+4.445
+allreduce end!
+allreduce start!
+4.844
+allreduce end!
+allreduce start!
+4.259
+allreduce end!
+allreduce start!
+4.452
+allreduce end!
+allreduce start!
+4.275
+allreduce end!
+allreduce start!
+4.453
+allreduce end!
+allreduce start!
+4.339
+allreduce end!
+allreduce start!
+4.384
+allreduce end!
+allreduce start!
+4.755
+allreduce end!
+allreduce start!
+4.347
+allreduce end!
+allreduce start!
+4.165
+allreduce end!
+allreduce start!
+4.022
+allreduce end!
+allreduce start!
+4.083
+allreduce end!
+allreduce start!
+4.212
+allreduce end!
+allreduce start!
+4.175
+allreduce end!
+allreduce start!
+4.361
+allreduce end!
+allreduce start!
+4.178
+allreduce end!
+allreduce start!
+12.713
+allreduce end!
+allreduce start!
+4.146
+allreduce end!
+allreduce start!
+4.641
+allreduce end!
+allreduce start!
+4.175
+allreduce end!
+allreduce start!
+4.092
+allreduce end!
+allreduce start!
+4.128
+allreduce end!
+allreduce start!
+4.231
+allreduce end!
+allreduce start!
+3.974
+allreduce end!
+allreduce start!
+3.951
+allreduce end!
+allreduce start!
+3.83
+allreduce end!
+allreduce start!
+3.85
+allreduce end!
+allreduce start!
+3.962
+allreduce end!
+allreduce start!
+4.057
+allreduce end!
+allreduce start!
+3.962
+allreduce end!
+allreduce start!
+3.808
+allreduce end!
+allreduce start!
+3.884
+allreduce end!
+allreduce start!
+4.395
+allreduce end!
+allreduce start!
+3.734
+allreduce end!
+allreduce start!
+3.829
+allreduce end!
+allreduce start!
+3.99
+allreduce end!
+allreduce start!
+4.053
+allreduce end!
+allreduce start!
+3.71
+allreduce end!
+allreduce start!
+3.7
+allreduce end!
+allreduce start!
+3.877
+allreduce end!
+allreduce start!
+3.894
+allreduce end!
+allreduce start!
+4.279
+allreduce end!
+allreduce start!
+3.936
+allreduce end!
+allreduce start!
+3.654
+allreduce end!
+allreduce start!
+4.204
+allreduce end!
+allreduce start!
+3.493
+allreduce end!
+allreduce start!
+3.59
+allreduce end!
+allreduce start!
+3.678
+allreduce end!
+allreduce start!
+3.549
+allreduce end!
+allreduce start!
+3.696
+allreduce end!
+allreduce start!
+3.519
+allreduce end!
+allreduce start!
+4.293
+allreduce end!
+allreduce start!
+3.781
+allreduce end!
+allreduce start!
+3.527
+allreduce end!
+allreduce start!
+3.362
+allreduce end!
+allreduce start!
+3.618
+allreduce end!
+allreduce start!
+3.511
+allreduce end!
+allreduce start!
+3.169
+allreduce end!
+allreduce start!
+3.391
+allreduce end!
+allreduce start!
+3.667
+allreduce end!
+allreduce start!
+3.405
+allreduce end!
+allreduce start!
+3.332
+allreduce end!
+allreduce start!
+3.325
+allreduce end!
+allreduce start!
+3.328
+allreduce end!
+allreduce start!
+3.499
+allreduce end!
+allreduce start!
+3.521
+allreduce end!
+allreduce start!
+3.362
+allreduce end!
+allreduce start!
+3.302
+allreduce end!
+allreduce start!
+3.303
+allreduce end!
+allreduce start!
+3.507
+allreduce end!
+allreduce start!
+3.236
+allreduce end!
+allreduce start!
+3.206
+allreduce end!
+allreduce start!
+3.387
+allreduce end!
+allreduce start!
+3.6
+allreduce end!
+allreduce start!
+3.623
+allreduce end!
+allreduce start!
+3.475
+allreduce end!
+allreduce start!
+3.284
+allreduce end!
+allreduce start!
+3.217
+allreduce end!
+allreduce start!
+3.272
+allreduce end!
+allreduce start!
+3.493
+allreduce end!
+allreduce start!
+3.185
+allreduce end!
+allreduce start!
+3.178
+allreduce end!
+allreduce start!
+3.111
+allreduce end!
+allreduce start!
+3.234
+allreduce end!
+allreduce start!
+3.155
+allreduce end!
+allreduce start!
+3.183
+allreduce end!
+allreduce start!
+7.817
+allreduce end!
+allreduce start!
+3.215
+allreduce end!
+allreduce start!
+3.19
+allreduce end!
+allreduce start!
+3.179
+allreduce end!
+allreduce start!
+3.054
+allreduce end!
+allreduce start!
+3.241
+allreduce end!
+allreduce start!
+3.189
+allreduce end!
+allreduce start!
+3.367
+allreduce end!
+allreduce start!
+3.262
+allreduce end!
+allreduce start!
+3.251
+allreduce end!
+allreduce start!
+9364
+allreduce end!
+allreduce start!
+5.866
+allreduce end!
+allreduce start!
+5.013
+allreduce end!
+allreduce start!
+4.358
+allreduce end!
+allreduce start!
+4.913
+allreduce end!
+allreduce start!
+4.966
+allreduce end!
+allreduce start!
+4.943
+allreduce end!
+allreduce start!
+4.32
+allreduce end!
+allreduce start!
+4.368
+allreduce end!
+allreduce start!
+4.161
+allreduce end!
+allreduce start!
+4.23
+allreduce end!
+allreduce start!
+4.245
+allreduce end!
+allreduce start!
+4.286
+allreduce end!
+allreduce start!
+4.346
+allreduce end!
+allreduce start!
+4.017
+allreduce end!
+allreduce start!
+3.823
+allreduce end!
+allreduce start!
+4.11
+allreduce end!
+allreduce start!
+4.02
+allreduce end!
+allreduce start!
+4.18
+allreduce end!
+allreduce start!
+4.102
+allreduce end!
+allreduce start!
+4.278
+allreduce end!
+allreduce start!
+4.308
+allreduce end!
+allreduce start!
+3.994
+allreduce end!
+allreduce start!
+4.121
+allreduce end!
+allreduce start!
+3.862
+allreduce end!
+allreduce start!
+3.866
+allreduce end!
+allreduce start!
+3.866
+allreduce end!
+allreduce start!
+3.811
+allreduce end!
+allreduce start!
+4.025
+allreduce end!
+allreduce start!
+3.827
+allreduce end!
+allreduce start!
+4.143
+allreduce end!
+allreduce start!
+3.988
+allreduce end!
+allreduce start!
+3.824
+allreduce end!
+allreduce start!
+3.872
+allreduce end!
+allreduce start!
+3.789
+allreduce end!
+allreduce start!
+4.036
+allreduce end!
+allreduce start!
+3.866
+allreduce end!
+allreduce start!
+3.693
+allreduce end!
+allreduce start!
+3.78
+allreduce end!
+allreduce start!
+3.901
+allreduce end!
+allreduce start!
+3.75
+allreduce end!
+allreduce start!
+3.891
+allreduce end!
+allreduce start!
+3.659
+allreduce end!
+allreduce start!
+3.746
+allreduce end!
+allreduce start!
+3.926
+allreduce end!
+allreduce start!
+3.609
+allreduce end!
+allreduce start!
+3.671
+allreduce end!
+allreduce start!
+3.653
+allreduce end!
+allreduce start!
+3.666
+allreduce end!
+allreduce start!
+3.698
+allreduce end!
+allreduce start!
+3.607
+allreduce end!
+allreduce start!
+3.809
+allreduce end!
+allreduce start!
+3.468
+allreduce end!
+allreduce start!
+3.457
+allreduce end!
+allreduce start!
+3.552
+allreduce end!
+allreduce start!
+4.014
+allreduce end!
+allreduce start!
+3.7
+allreduce end!
+allreduce start!
+3.495
+allreduce end!
+allreduce start!
+3.645
+allreduce end!
+allreduce start!
+3.738
+allreduce end!
+allreduce start!
+3.532
+allreduce end!
+allreduce start!
+3.365
+allreduce end!
+allreduce start!
+3.411
+allreduce end!
+allreduce start!
+3.602
+allreduce end!
+allreduce start!
+3.263
+allreduce end!
+allreduce start!
+3.465
+allreduce end!
+allreduce start!
+3.46
+allreduce end!
+allreduce start!
+3.582
+allreduce end!
+allreduce start!
+3.52
+allreduce end!
+allreduce start!
+3.379
+allreduce end!
+allreduce start!
+3.746
+allreduce end!
+allreduce start!
+3.33
+allreduce end!
+allreduce start!
+3.292
+allreduce end!
+allreduce start!
+3.293
+allreduce end!
+allreduce start!
+3.314
+allreduce end!
+allreduce start!
+3.307
+allreduce end!
+allreduce start!
+3.275
+allreduce end!
+allreduce start!
+3.253
+allreduce end!
+allreduce start!
+3.33
+allreduce end!
+allreduce start!
+3.339
+allreduce end!
+allreduce start!
+3.327
+allreduce end!
+allreduce start!
+3.258
+allreduce end!
+allreduce start!
+3.335
+allreduce end!
+allreduce start!
+3.603
+allreduce end!
+allreduce start!
+3.309
+allreduce end!
+allreduce start!
+3.224
+allreduce end!
+allreduce start!
+3.455
+allreduce end!
+allreduce start!
+3.152
+allreduce end!
+allreduce start!
+3.07
+allreduce end!
+allreduce start!
+3.141
+allreduce end!
+allreduce start!
+3.38
+allreduce end!
+allreduce start!
+3.18
+allreduce end!
+allreduce start!
+3.23
+allreduce end!
+allreduce start!
+3.21
+allreduce end!
+allreduce start!
+3.135
+allreduce end!
+allreduce start!
+3.638
+allreduce end!
+allreduce start!
+3.134
+allreduce end!
+allreduce start!
+3.156
+allreduce end!
+allreduce start!
+3.208
+allreduce end!
+allreduce start!
+3.106
+allreduce end!
+allreduce start!
+9307.26
+allreduce end!
+allreduce start!
+6.568
+allreduce end!
+allreduce start!
+5.153
+allreduce end!
+allreduce start!
+4.727
+allreduce end!
+allreduce start!
+4.519
+allreduce end!
+allreduce start!
+4.425
+allreduce end!
+allreduce start!
+4.614
+allreduce end!
+allreduce start!
+4.369
+allreduce end!
+allreduce start!
+4.472
+allreduce end!
+allreduce start!
+4.133
+allreduce end!
+allreduce start!
+4.418
+allreduce end!
+allreduce start!
+4.5
+allreduce end!
+allreduce start!
+4.351
+allreduce end!
+allreduce start!
+4.555
+allreduce end!
+allreduce start!
+4.054
+allreduce end!
+allreduce start!
+4.127
+allreduce end!
+allreduce start!
+4.31
+allreduce end!
+allreduce start!
+4.21
+allreduce end!
+allreduce start!
+4.126
+allreduce end!
+allreduce start!
+4.125
+allreduce end!
+allreduce start!
+4.576
+allreduce end!
+allreduce start!
+4.84
+allreduce end!
+allreduce start!
+4.122
+allreduce end!
+allreduce start!
+4.253
+allreduce end!
+allreduce start!
+4.145
+allreduce end!
+allreduce start!
+3.877
+allreduce end!
+allreduce start!
+4.11
+allreduce end!
+allreduce start!
+4.131
+allreduce end!
+allreduce start!
+4.128
+allreduce end!
+allreduce start!
+3.992
+allreduce end!
+allreduce start!
+3.922
+allreduce end!
+allreduce start!
+4.1
+allreduce end!
+allreduce start!
+3.86
+allreduce end!
+allreduce start!
+4.106
+allreduce end!
+allreduce start!
+4.08
+allreduce end!
+allreduce start!
+3.801
+allreduce end!
+allreduce start!
+4.08
+allreduce end!
+allreduce start!
+3.724
+allreduce end!
+allreduce start!
+3.917
+allreduce end!
+allreduce start!
+4.074
+allreduce end!
+allreduce start!
+3.757
+allreduce end!
+allreduce start!
+3.866
+allreduce end!
+allreduce start!
+3.794
+allreduce end!
+allreduce start!
+3.968
+allreduce end!
+allreduce start!
+3.817
+allreduce end!
+allreduce start!
+3.771
+allreduce end!
+allreduce start!
+3.794
+allreduce end!
+allreduce start!
+3.734
+allreduce end!
+allreduce start!
+4.157
+allreduce end!
+allreduce start!
+3.608
+allreduce end!
+allreduce start!
+4.118
+allreduce end!
+allreduce start!
+4.146
+allreduce end!
+allreduce start!
+3.615
+allreduce end!
+allreduce start!
+3.674
+allreduce end!
+allreduce start!
+3.57
+allreduce end!
+allreduce start!
+3.983
+allreduce end!
+allreduce start!
+3.624
+allreduce end!
+allreduce start!
+3.904
+allreduce end!
+allreduce start!
+3.783
+allreduce end!
+allreduce start!
+3.937
+allreduce end!
+allreduce start!
+3.797
+allreduce end!
+allreduce start!
+3.446
+allreduce end!
+allreduce start!
+3.627
+allreduce end!
+allreduce start!
+3.62
+allreduce end!
+allreduce start!
+3.345
+allreduce end!
+allreduce start!
+3.623
+allreduce end!
+allreduce start!
+3.478
+allreduce end!
+allreduce start!
+3.467
+allreduce end!
+allreduce start!
+3.587
+allreduce end!
+allreduce start!
+3.494
+allreduce end!
+allreduce start!
+3.843
+allreduce end!
+allreduce start!
+3.243
+allreduce end!
+allreduce start!
+3.39
+allreduce end!
+allreduce start!
+3.351
+allreduce end!
+allreduce start!
+3.334
+allreduce end!
+allreduce start!
+3.502
+allreduce end!
+allreduce start!
+3.343
+allreduce end!
+allreduce start!
+3.921
+allreduce end!
+allreduce start!
+3.352
+allreduce end!
+allreduce start!
+3.461
+allreduce end!
+allreduce start!
+3.457
+allreduce end!
+allreduce start!
+3.398
+allreduce end!
+allreduce start!
+3.404
+allreduce end!
+allreduce start!
+3.386
+allreduce end!
+allreduce start!
+3.355
+allreduce end!
+allreduce start!
+3.603
+allreduce end!
+allreduce start!
+3.315
+allreduce end!
+allreduce start!
+3.58
+allreduce end!
+allreduce start!
+3.341
+allreduce end!
+allreduce start!
+3.3
+allreduce end!
+allreduce start!
+3.416
+allreduce end!
+allreduce start!
+3.245
+allreduce end!
+allreduce start!
+3.486
+allreduce end!
+allreduce start!
+3.377
+allreduce end!
+allreduce start!
+3.331
+allreduce end!
+allreduce start!
+3.437
+allreduce end!
+allreduce start!
+3.246
+allreduce end!
+allreduce start!
+3.458
+allreduce end!
+allreduce start!
+3.31
+allreduce end!
+allreduce start!
+3.233
+allreduce end!
+allreduce start!
+9213.55
+allreduce end!
+allreduce start!
+6.057
+allreduce end!
+allreduce start!
+4.957
+allreduce end!
+allreduce start!
+4.676
+allreduce end!
+allreduce start!
+4.617
+allreduce end!
+allreduce start!
+4.444
+allreduce end!
+allreduce start!
+4.771
+allreduce end!
+allreduce start!
+4.515
+allreduce end!
+allreduce start!
+4.405
+allreduce end!
+allreduce start!
+4.35
+allreduce end!
+allreduce start!
+4.373
+allreduce end!
+allreduce start!
+4.272
+allreduce end!
+allreduce start!
+4.451
+allreduce end!
+allreduce start!
+4.307
+allreduce end!
+allreduce start!
+4.602
+allreduce end!
+allreduce start!
+4.392
+allreduce end!
+allreduce start!
+4.553
+allreduce end!
+allreduce start!
+4.345
+allreduce end!
+allreduce start!
+4.452
+allreduce end!
+allreduce start!
+4.398
+allreduce end!
+allreduce start!
+4.606
+allreduce end!
+allreduce start!
+4.776
+allreduce end!
+allreduce start!
+4.33
+allreduce end!
+allreduce start!
+4.368
+allreduce end!
+allreduce start!
+4.163
+allreduce end!
+allreduce start!
+4.152
+allreduce end!
+allreduce start!
+4.33
+allreduce end!
+allreduce start!
+4.128
+allreduce end!
+allreduce start!
+4.254
+allreduce end!
+allreduce start!
+4.358
+allreduce end!
+allreduce start!
+4.199
+allreduce end!
+allreduce start!
+4.183
+allreduce end!
+allreduce start!
+4.256
+allreduce end!
+allreduce start!
+4.197
+allreduce end!
+allreduce start!
+4.175
+allreduce end!
+allreduce start!
+4.457
+allreduce end!
+allreduce start!
+4.438
+allreduce end!
+allreduce start!
+3.984
+allreduce end!
+allreduce start!
+4.03
+allreduce end!
+allreduce start!
+4.304
+allreduce end!
+allreduce start!
+4.042
+allreduce end!
+allreduce start!
+4.106
+allreduce end!
+allreduce start!
+3.952
+allreduce end!
+allreduce start!
+4.273
+allreduce end!
+allreduce start!
+3.893
+allreduce end!
+allreduce start!
+3.988
+allreduce end!
+allreduce start!
+3.923
+allreduce end!
+allreduce start!
+3.86
+allreduce end!
+allreduce start!
+3.95
+allreduce end!
+allreduce start!
+3.787
+allreduce end!
+allreduce start!
+3.84
+allreduce end!
+allreduce start!
+4.09
+allreduce end!
+allreduce start!
+4.015
+allreduce end!
+allreduce start!
+3.946
+allreduce end!
+allreduce start!
+3.832
+allreduce end!
+allreduce start!
+3.957
+allreduce end!
+allreduce start!
+3.894
+allreduce end!
+allreduce start!
+4.4
+allreduce end!
+allreduce start!
+4.464
+allreduce end!
+allreduce start!
+4.139
+allreduce end!
+allreduce start!
+3.798
+allreduce end!
+allreduce start!
+3.69
+allreduce end!
+allreduce start!
+3.617
+allreduce end!
+allreduce start!
+3.872
+allreduce end!
+allreduce start!
+3.904
+allreduce end!
+allreduce start!
+3.81
+allreduce end!
+allreduce start!
+3.746
+allreduce end!
+allreduce start!
+3.688
+allreduce end!
+allreduce start!
+3.793
+allreduce end!
+allreduce start!
+3.638
+allreduce end!
+allreduce start!
+3.807
+allreduce end!
+allreduce start!
+3.732
+allreduce end!
+allreduce start!
+3.618
+allreduce end!
+allreduce start!
+3.464
+allreduce end!
+allreduce start!
+3.532
+allreduce end!
+allreduce start!
+3.717
+allreduce end!
+allreduce start!
+3.622
+allreduce end!
+allreduce start!
+4.104
+allreduce end!
+allreduce start!
+3.742
+allreduce end!
+allreduce start!
+4.354
+allreduce end!
+allreduce start!
+3.847
+allreduce end!
+allreduce start!
+3.502
+allreduce end!
+allreduce start!
+3.509
+allreduce end!
+allreduce start!
+3.314
+allreduce end!
+allreduce start!
+3.719
+allreduce end!
+allreduce start!
+3.485
+allreduce end!
+allreduce start!
+3.508
+allreduce end!
+allreduce start!
+3.838
+allreduce end!
+allreduce start!
+3.483
+allreduce end!
+allreduce start!
+3.445
+allreduce end!
+allreduce start!
+3.622
+allreduce end!
+allreduce start!
+3.606
+allreduce end!
+allreduce start!
+3.713
+allreduce end!
+allreduce start!
+3.408
+allreduce end!
+allreduce start!
+3.509
+allreduce end!
+allreduce start!
+3.443
+allreduce end!
+allreduce start!
+3.371
+allreduce end!
+allreduce start!
+3.504
+allreduce end!
+allreduce start!
+3.66
+allreduce end!
+allreduce start!
+3.381
+allreduce end!
+allreduce start!
+9215.24
+allreduce end!
+allreduce start!
+8.548
+allreduce end!
+allreduce start!
+6.67
+allreduce end!
+allreduce start!
+5.65
+allreduce end!
+allreduce start!
+5.58
+allreduce end!
+allreduce start!
+5.338
+allreduce end!
+allreduce start!
+5.45
+allreduce end!
+allreduce start!
+5.562
+allreduce end!
+allreduce start!
+5.66
+allreduce end!
+allreduce start!
+5.269
+allreduce end!
+allreduce start!
+5.653
+allreduce end!
+allreduce start!
+5.607
+allreduce end!
+allreduce start!
+5.534
+allreduce end!
+allreduce start!
+5.655
+allreduce end!
+allreduce start!
+5.489
+allreduce end!
+allreduce start!
+5.471
+allreduce end!
+allreduce start!
+5.65
+allreduce end!
+allreduce start!
+5.698
+allreduce end!
+allreduce start!
+5.547
+allreduce end!
+allreduce start!
+5.566
+allreduce end!
+allreduce start!
+5.605
+allreduce end!
+allreduce start!
+5.639
+allreduce end!
+allreduce start!
+5.423
+allreduce end!
+allreduce start!
+5.064
+allreduce end!
+allreduce start!
+5.496
+allreduce end!
+allreduce start!
+5.105
+allreduce end!
+allreduce start!
+5.314
+allreduce end!
+allreduce start!
+5.33
+allreduce end!
+allreduce start!
+5.009
+allreduce end!
+allreduce start!
+5.331
+allreduce end!
+allreduce start!
+5.304
+allreduce end!
+allreduce start!
+5.659
+allreduce end!
+allreduce start!
+5.175
+allreduce end!
+allreduce start!
+5.257
+allreduce end!
+allreduce start!
+5.291
+allreduce end!
+allreduce start!
+5.079
+allreduce end!
+allreduce start!
+4.907
+allreduce end!
+allreduce start!
+4.765
+allreduce end!
+allreduce start!
+5.077
+allreduce end!
+allreduce start!
+5.193
+allreduce end!
+allreduce start!
+4.928
+allreduce end!
+allreduce start!
+4.909
+allreduce end!
+allreduce start!
+5.345
+allreduce end!
+allreduce start!
+5.08
+allreduce end!
+allreduce start!
+4.947
+allreduce end!
+allreduce start!
+4.959
+allreduce end!
+allreduce start!
+5.224
+allreduce end!
+allreduce start!
+4.944
+allreduce end!
+allreduce start!
+4.857
+allreduce end!
+allreduce start!
+5.002
+allreduce end!
+allreduce start!
+4.86
+allreduce end!
+allreduce start!
+4.788
+allreduce end!
+allreduce start!
+4.823
+allreduce end!
+allreduce start!
+4.759
+allreduce end!
+allreduce start!
+5.829
+allreduce end!
+allreduce start!
+4.814
+allreduce end!
+allreduce start!
+4.977
+allreduce end!
+allreduce start!
+4.585
+allreduce end!
+allreduce start!
+4.65
+allreduce end!
+allreduce start!
+4.973
+allreduce end!
+allreduce start!
+4.544
+allreduce end!
+allreduce start!
+4.676
+allreduce end!
+allreduce start!
+5.249
+allreduce end!
+allreduce start!
+4.75
+allreduce end!
+allreduce start!
+4.527
+allreduce end!
+allreduce start!
+4.379
+allreduce end!
+allreduce start!
+4.417
+allreduce end!
+allreduce start!
+4.539
+allreduce end!
+allreduce start!
+4.555
+allreduce end!
+allreduce start!
+4.576
+allreduce end!
+allreduce start!
+4.45
+allreduce end!
+allreduce start!
+4.534
+allreduce end!
+allreduce start!
+4.398
+allreduce end!
+allreduce start!
+4.39
+allreduce end!
+allreduce start!
+4.492
+allreduce end!
+allreduce start!
+4.285
+allreduce end!
+allreduce start!
+4.401
+allreduce end!
+allreduce start!
+4.276
+allreduce end!
+allreduce start!
+4.424
+allreduce end!
+allreduce start!
+4.55
+allreduce end!
+allreduce start!
+4.447
+allreduce end!
+allreduce start!
+4.116
+allreduce end!
+allreduce start!
+4.14
+allreduce end!
+allreduce start!
+4.529
+allreduce end!
+allreduce start!
+4.331
+allreduce end!
+allreduce start!
+4.15
+allreduce end!
+allreduce start!
+4.334
+allreduce end!
+allreduce start!
+4.288
+allreduce end!
+allreduce start!
+4.406
+allreduce end!
+allreduce start!
+4.355
+allreduce end!
+allreduce start!
+4.318
+allreduce end!
+allreduce start!
+4.261
+allreduce end!
+allreduce start!
+4.634
+allreduce end!
+allreduce start!
+4.045
+allreduce end!
+allreduce start!
+4.218
+allreduce end!
+allreduce start!
+4.138
+allreduce end!
+allreduce start!
+4.134
+allreduce end!
+allreduce start!
+4.034
+allreduce end!
+allreduce start!
+4.295
+allreduce end!
+allreduce start!
+4.202
+allreduce end!
+allreduce start!
+9564.95
+allreduce end!
+allreduce start!
+6.646
+allreduce end!
+allreduce start!
+5.677
+allreduce end!
+allreduce start!
+5.374
+allreduce end!
+allreduce start!
+5.125
+allreduce end!
+allreduce start!
+5.378
+allreduce end!
+allreduce start!
+5.359
+allreduce end!
+allreduce start!
+5.133
+allreduce end!
+allreduce start!
+5.091
+allreduce end!
+allreduce start!
+5.109
+allreduce end!
+allreduce start!
+5.342
+allreduce end!
+allreduce start!
+5.073
+allreduce end!
+allreduce start!
+5.013
+allreduce end!
+allreduce start!
+4.888
+allreduce end!
+allreduce start!
+4.837
+allreduce end!
+allreduce start!
+4.982
+allreduce end!
+allreduce start!
+5.061
+allreduce end!
+allreduce start!
+4.86
+allreduce end!
+allreduce start!
+5.553
+allreduce end!
+allreduce start!
+5.035
+allreduce end!
+allreduce start!
+5.394
+allreduce end!
+allreduce start!
+4.971
+allreduce end!
+allreduce start!
+5.238
+allreduce end!
+allreduce start!
+4.92
+allreduce end!
+allreduce start!
+4.732
+allreduce end!
+allreduce start!
+5.029
+allreduce end!
+allreduce start!
+4.728
+allreduce end!
+allreduce start!
+4.838
+allreduce end!
+allreduce start!
+5.067
+allreduce end!
+allreduce start!
+4.742
+allreduce end!
+allreduce start!
+4.685
+allreduce end!
+allreduce start!
+4.917
+allreduce end!
+allreduce start!
+4.829
+allreduce end!
+allreduce start!
+5.102
+allreduce end!
+allreduce start!
+4.61
+allreduce end!
+allreduce start!
+4.525
+allreduce end!
+allreduce start!
+4.866
+allreduce end!
+allreduce start!
+4.604
+allreduce end!
+allreduce start!
+4.859
+allreduce end!
+allreduce start!
+4.704
+allreduce end!
+allreduce start!
+4.79
+allreduce end!
+allreduce start!
+4.611
+allreduce end!
+allreduce start!
+4.599
+allreduce end!
+allreduce start!
+4.834
+allreduce end!
+allreduce start!
+4.612
+allreduce end!
+allreduce start!
+4.706
+allreduce end!
+allreduce start!
+4.447
+allreduce end!
+allreduce start!
+5.329
+allreduce end!
+allreduce start!
+4.435
+allreduce end!
+allreduce start!
+4.499
+allreduce end!
+allreduce start!
+4.446
+allreduce end!
+allreduce start!
+4.539
+allreduce end!
+allreduce start!
+4.482
+allreduce end!
+allreduce start!
+4.788
+allreduce end!
+allreduce start!
+4.479
+allreduce end!
+allreduce start!
+4.623
+allreduce end!
+allreduce start!
+4.261
+allreduce end!
+allreduce start!
+4.43
+allreduce end!
+allreduce start!
+4.255
+allreduce end!
+allreduce start!
+4.4
+allreduce end!
+allreduce start!
+4.629
+allreduce end!
+allreduce start!
+4.353
+allreduce end!
+allreduce start!
+4.472
+allreduce end!
+allreduce start!
+4.565
+allreduce end!
+allreduce start!
+4.409
+allreduce end!
+allreduce start!
+4.627
+allreduce end!
+allreduce start!
+4.345
+allreduce end!
+allreduce start!
+4.346
+allreduce end!
+allreduce start!
+4.226
+allreduce end!
+allreduce start!
+4.437
+allreduce end!
+allreduce start!
+4.595
+allreduce end!
+allreduce start!
+4.465
+allreduce end!
+allreduce start!
+4.196
+allreduce end!
+allreduce start!
+4.24
+allreduce end!
+allreduce start!
+4.245
+allreduce end!
+allreduce start!
+4.508
+allreduce end!
+allreduce start!
+4.583
+allreduce end!
+allreduce start!
+4.344
+allreduce end!
+allreduce start!
+4.253
+allreduce end!
+allreduce start!
+4.172
+allreduce end!
+allreduce start!
+4.417
+allreduce end!
+allreduce start!
+4.273
+allreduce end!
+allreduce start!
+4.098
+allreduce end!
+allreduce start!
+4.394
+allreduce end!
+allreduce start!
+4.026
+allreduce end!
+allreduce start!
+4.279
+allreduce end!
+allreduce start!
+4.161
+allreduce end!
+allreduce start!
+4.442
+allreduce end!
+allreduce start!
+5.09
+allreduce end!
+allreduce start!
+4.418
+allreduce end!
+allreduce start!
+4.245
+allreduce end!
+allreduce start!
+4.124
+allreduce end!
+allreduce start!
+4.16
+allreduce end!
+allreduce start!
+4.094
+allreduce end!
+allreduce start!
+4.117
+allreduce end!
+allreduce start!
+4.392
+allreduce end!
+allreduce start!
+4.122
+allreduce end!
+allreduce start!
+4.446
+allreduce end!
+allreduce start!
+4.336
+allreduce end!
+allreduce start!
+4.009
+allreduce end!
+allreduce start!
+9240.67
+allreduce end!
+allreduce start!
+6.488
+allreduce end!
+allreduce start!
+5.785
+allreduce end!
+allreduce start!
+5.248
+allreduce end!
+allreduce start!
+5.347
+allreduce end!
+allreduce start!
+5.309
+allreduce end!
+allreduce start!
+5.453
+allreduce end!
+allreduce start!
+5.149
+allreduce end!
+allreduce start!
+5.178
+allreduce end!
+allreduce start!
+5.248
+allreduce end!
+allreduce start!
+5.526
+allreduce end!
+allreduce start!
+5.521
+allreduce end!
+allreduce start!
+5.142
+allreduce end!
+allreduce start!
+5.594
+allreduce end!
+allreduce start!
+4.971
+allreduce end!
+allreduce start!
+4.868
+allreduce end!
+allreduce start!
+5.073
+allreduce end!
+allreduce start!
+4.851
+allreduce end!
+allreduce start!
+5.028
+allreduce end!
+allreduce start!
+5.049
+allreduce end!
+allreduce start!
+5.268
+allreduce end!
+allreduce start!
+5.139
+allreduce end!
+allreduce start!
+5.043
+allreduce end!
+allreduce start!
+4.985
+allreduce end!
+allreduce start!
+4.723
+allreduce end!
+allreduce start!
+4.72
+allreduce end!
+allreduce start!
+5.151
+allreduce end!
+allreduce start!
+5.338
+allreduce end!
+allreduce start!
+5.152
+allreduce end!
+allreduce start!
+4.828
+allreduce end!
+allreduce start!
+4.787
+allreduce end!
+allreduce start!
+4.814
+allreduce end!
+allreduce start!
+4.73
+allreduce end!
+allreduce start!
+4.846
+allreduce end!
+allreduce start!
+4.608
+allreduce end!
+allreduce start!
+4.62
+allreduce end!
+allreduce start!
+4.827
+allreduce end!
+allreduce start!
+4.672
+allreduce end!
+allreduce start!
+4.635
+allreduce end!
+allreduce start!
+4.633
+allreduce end!
+allreduce start!
+4.614
+allreduce end!
+allreduce start!
+4.527
+allreduce end!
+allreduce start!
+4.536
+allreduce end!
+allreduce start!
+4.677
+allreduce end!
+allreduce start!
+4.673
+allreduce end!
+allreduce start!
+4.575
+allreduce end!
+allreduce start!
+4.559
+allreduce end!
+allreduce start!
+4.378
+allreduce end!
+allreduce start!
+4.617
+allreduce end!
+allreduce start!
+4.413
+allreduce end!
+allreduce start!
+4.391
+allreduce end!
+allreduce start!
+4.616
+allreduce end!
+allreduce start!
+4.704
+allreduce end!
+allreduce start!
+4.427
+allreduce end!
+allreduce start!
+4.466
+allreduce end!
+allreduce start!
+4.5
+allreduce end!
+allreduce start!
+4.33
+allreduce end!
+allreduce start!
+4.236
+allreduce end!
+allreduce start!
+4.46
+allreduce end!
+allreduce start!
+5.018
+allreduce end!
+allreduce start!
+4.512
+allreduce end!
+allreduce start!
+4.343
+allreduce end!
+allreduce start!
+4.306
+allreduce end!
+allreduce start!
+4.383
+allreduce end!
+allreduce start!
+4.297
+allreduce end!
+allreduce start!
+4.494
+allreduce end!
+allreduce start!
+4.893
+allreduce end!
+allreduce start!
+4.337
+allreduce end!
+allreduce start!
+4.256
+allreduce end!
+allreduce start!
+4.781
+allreduce end!
+allreduce start!
+4.355
+allreduce end!
+allreduce start!
+4.367
+allreduce end!
+allreduce start!
+4.279
+allreduce end!
+allreduce start!
+4.47
+allreduce end!
+allreduce start!
+4.262
+allreduce end!
+allreduce start!
+4.778
+allreduce end!
+allreduce start!
+4.2
+allreduce end!
+allreduce start!
+4.337
+allreduce end!
+allreduce start!
+4.24
+allreduce end!
+allreduce start!
+4.048
+allreduce end!
+allreduce start!
+4.354
+allreduce end!
+allreduce start!
+4.121
+allreduce end!
+allreduce start!
+4.02
+allreduce end!
+allreduce start!
+4.071
+allreduce end!
+allreduce start!
+4.076
+allreduce end!
+allreduce start!
+4.114
+allreduce end!
+allreduce start!
+4.181
+allreduce end!
+allreduce start!
+4.108
+allreduce end!
+allreduce start!
+4.069
+allreduce end!
+allreduce start!
+4.058
+allreduce end!
+allreduce start!
+4.18
+allreduce end!
+allreduce start!
+4.117
+allreduce end!
+allreduce start!
+4.104
+allreduce end!
+allreduce start!
+4.063
+allreduce end!
+allreduce start!
+4.028
+allreduce end!
+allreduce start!
+3.979
+allreduce end!
+allreduce start!
+4.124
+allreduce end!
+allreduce start!
+4.155
+allreduce end!
+allreduce start!
+3.943
+allreduce end!
+allreduce start!
+3.866
+allreduce end!
+allreduce start!
+9136.67
+allreduce end!
+allreduce start!
+8.89
+allreduce end!
+allreduce start!
+6.733
+allreduce end!
+allreduce start!
+6.399
+allreduce end!
+allreduce start!
+6.08
+allreduce end!
+allreduce start!
+5.976
+allreduce end!
+allreduce start!
+6.056
+allreduce end!
+allreduce start!
+5.905
+allreduce end!
+allreduce start!
+6.244
+allreduce end!
+allreduce start!
+5.819
+allreduce end!
+allreduce start!
+6.058
+allreduce end!
+allreduce start!
+6.055
+allreduce end!
+allreduce start!
+5.908
+allreduce end!
+allreduce start!
+5.977
+allreduce end!
+allreduce start!
+5.922
+allreduce end!
+allreduce start!
+5.855
+allreduce end!
+allreduce start!
+5.88
+allreduce end!
+allreduce start!
+5.829
+allreduce end!
+allreduce start!
+5.784
+allreduce end!
+allreduce start!
+5.85
+allreduce end!
+allreduce start!
+5.775
+allreduce end!
+allreduce start!
+6.008
+allreduce end!
+allreduce start!
+5.881
+allreduce end!
+allreduce start!
+6.091
+allreduce end!
+allreduce start!
+6.109
+allreduce end!
+allreduce start!
+5.562
+allreduce end!
+allreduce start!
+5.454
+allreduce end!
+allreduce start!
+5.73
+allreduce end!
+allreduce start!
+5.783
+allreduce end!
+allreduce start!
+5.58
+allreduce end!
+allreduce start!
+5.512
+allreduce end!
+allreduce start!
+5.823
+allreduce end!
+allreduce start!
+5.632
+allreduce end!
+allreduce start!
+5.337
+allreduce end!
+allreduce start!
+5.643
+allreduce end!
+allreduce start!
+6.328
+allreduce end!
+allreduce start!
+5.595
+allreduce end!
+allreduce start!
+5.788
+allreduce end!
+allreduce start!
+5.759
+allreduce end!
+allreduce start!
+5.868
+allreduce end!
+allreduce start!
+5.381
+allreduce end!
+allreduce start!
+5.367
+allreduce end!
+allreduce start!
+5.369
+allreduce end!
+allreduce start!
+5.42
+allreduce end!
+allreduce start!
+5.249
+allreduce end!
+allreduce start!
+5.524
+allreduce end!
+allreduce start!
+5.472
+allreduce end!
+allreduce start!
+5.632
+allreduce end!
+allreduce start!
+5.447
+allreduce end!
+allreduce start!
+5.496
+allreduce end!
+allreduce start!
+5.281
+allreduce end!
+allreduce start!
+5.479
+allreduce end!
+allreduce start!
+5.327
+allreduce end!
+allreduce start!
+5.3
+allreduce end!
+allreduce start!
+5.52
+allreduce end!
+allreduce start!
+5.303
+allreduce end!
+allreduce start!
+5.583
+allreduce end!
+allreduce start!
+5.517
+allreduce end!
+allreduce start!
+5.882
+allreduce end!
+allreduce start!
+5.728
+allreduce end!
+allreduce start!
+5.345
+allreduce end!
+allreduce start!
+5.765
+allreduce end!
+allreduce start!
+5.373
+allreduce end!
+allreduce start!
+5.474
+allreduce end!
+allreduce start!
+5.512
+allreduce end!
+allreduce start!
+5.252
+allreduce end!
+allreduce start!
+5.235
+allreduce end!
+allreduce start!
+5.328
+allreduce end!
+allreduce start!
+4.996
+allreduce end!
+allreduce start!
+5.13
+allreduce end!
+allreduce start!
+5.656
+allreduce end!
+allreduce start!
+5.599
+allreduce end!
+allreduce start!
+5.122
+allreduce end!
+allreduce start!
+5.255
+allreduce end!
+allreduce start!
+12.428
+allreduce end!
+allreduce start!
+5.477
+allreduce end!
+allreduce start!
+4.932
+allreduce end!
+allreduce start!
+5.222
+allreduce end!
+allreduce start!
+4.974
+allreduce end!
+allreduce start!
+5.065
+allreduce end!
+allreduce start!
+5.208
+allreduce end!
+allreduce start!
+4.951
+allreduce end!
+allreduce start!
+5.114
+allreduce end!
+allreduce start!
+4.929
+allreduce end!
+allreduce start!
+4.885
+allreduce end!
+allreduce start!
+4.956
+allreduce end!
+allreduce start!
+5.283
+allreduce end!
+allreduce start!
+5.21
+allreduce end!
+allreduce start!
+5.3
+allreduce end!
+allreduce start!
+4.935
+allreduce end!
+allreduce start!
+4.996
+allreduce end!
+allreduce start!
+5.05
+allreduce end!
+allreduce start!
+4.87
+allreduce end!
+allreduce start!
+4.94
+allreduce end!
+allreduce start!
+4.84
+allreduce end!
+allreduce start!
+5.883
+allreduce end!
+allreduce start!
+5.286
+allreduce end!
+allreduce start!
+4.884
+allreduce end!
+allreduce start!
+5.148
+allreduce end!
+allreduce start!
+4.915
+allreduce end!
+allreduce start!
+9267.13
+allreduce end!
+allreduce start!
+11.453
+allreduce end!
+allreduce start!
+9.321
+allreduce end!
+allreduce start!
+9.365
+allreduce end!
+allreduce start!
+9.107
+allreduce end!
+allreduce start!
+8.956
+allreduce end!
+allreduce start!
+9.032
+allreduce end!
+allreduce start!
+8.905
+allreduce end!
+allreduce start!
+9.347
+allreduce end!
+allreduce start!
+9.515
+allreduce end!
+allreduce start!
+8.97
+allreduce end!
+allreduce start!
+9.169
+allreduce end!
+allreduce start!
+8.709
+allreduce end!
+allreduce start!
+8.379
+allreduce end!
+allreduce start!
+8.987
+allreduce end!
+allreduce start!
+8.618
+allreduce end!
+allreduce start!
+15.453
+allreduce end!
+allreduce start!
+9.015
+allreduce end!
+allreduce start!
+8.188
+allreduce end!
+allreduce start!
+8.363
+allreduce end!
+allreduce start!
+8.473
+allreduce end!
+allreduce start!
+8.588
+allreduce end!
+allreduce start!
+8.371
+allreduce end!
+allreduce start!
+8.667
+allreduce end!
+allreduce start!
+8.583
+allreduce end!
+allreduce start!
+8.365
+allreduce end!
+allreduce start!
+8.615
+allreduce end!
+allreduce start!
+8.72
+allreduce end!
+allreduce start!
+8.299
+allreduce end!
+allreduce start!
+7.908
+allreduce end!
+allreduce start!
+7.994
+allreduce end!
+allreduce start!
+8.473
+allreduce end!
+allreduce start!
+8.118
+allreduce end!
+allreduce start!
+9.119
+allreduce end!
+allreduce start!
+7.745
+allreduce end!
+allreduce start!
+8.17
+allreduce end!
+allreduce start!
+8.15
+allreduce end!
+allreduce start!
+7.954
+allreduce end!
+allreduce start!
+8.184
+allreduce end!
+allreduce start!
+7.537
+allreduce end!
+allreduce start!
+7.428
+allreduce end!
+allreduce start!
+7.817
+allreduce end!
+allreduce start!
+7.498
+allreduce end!
+allreduce start!
+7.785
+allreduce end!
+allreduce start!
+7.65
+allreduce end!
+allreduce start!
+8.145
+allreduce end!
+allreduce start!
+7.655
+allreduce end!
+allreduce start!
+7.39
+allreduce end!
+allreduce start!
+7.771
+allreduce end!
+allreduce start!
+7.837
+allreduce end!
+allreduce start!
+7.293
+allreduce end!
+allreduce start!
+12.951
+allreduce end!
+allreduce start!
+7.903
+allreduce end!
+allreduce start!
+7.96
+allreduce end!
+allreduce start!
+7.508
+allreduce end!
+allreduce start!
+7.583
+allreduce end!
+allreduce start!
+7.669
+allreduce end!
+allreduce start!
+7.41
+allreduce end!
+allreduce start!
+7.214
+allreduce end!
+allreduce start!
+6.994
+allreduce end!
+allreduce start!
+6.997
+allreduce end!
+allreduce start!
+7.116
+allreduce end!
+allreduce start!
+7.052
+allreduce end!
+allreduce start!
+6.978
+allreduce end!
+allreduce start!
+6.587
+allreduce end!
+allreduce start!
+6.538
+allreduce end!
+allreduce start!
+6.535
+allreduce end!
+allreduce start!
+6.95
+allreduce end!
+allreduce start!
+6.594
+allreduce end!
+allreduce start!
+6.312
+allreduce end!
+allreduce start!
+6.238
+allreduce end!
+allreduce start!
+6.197
+allreduce end!
+allreduce start!
+6.292
+allreduce end!
+allreduce start!
+6.374
+allreduce end!
+allreduce start!
+6.259
+allreduce end!
+allreduce start!
+6.242
+allreduce end!
+allreduce start!
+6.15
+allreduce end!
+allreduce start!
+6.087
+allreduce end!
+allreduce start!
+6.483
+allreduce end!
+allreduce start!
+6.587
+allreduce end!
+allreduce start!
+6.2
+allreduce end!
+allreduce start!
+5.838
+allreduce end!
+allreduce start!
+6.384
+allreduce end!
+allreduce start!
+6.158
+allreduce end!
+allreduce start!
+6.206
+allreduce end!
+allreduce start!
+6.493
+allreduce end!
+allreduce start!
+6.247
+allreduce end!
+allreduce start!
+12.625
+allreduce end!
+allreduce start!
+6.13
+allreduce end!
+allreduce start!
+7.588
+allreduce end!
+allreduce start!
+5.958
+allreduce end!
+allreduce start!
+6.646
+allreduce end!
+allreduce start!
+6.082
+allreduce end!
+allreduce start!
+5.918
+allreduce end!
+allreduce start!
+5.909
+allreduce end!
+allreduce start!
+5.996
+allreduce end!
+allreduce start!
+6.341
+allreduce end!
+allreduce start!
+6.196
+allreduce end!
+allreduce start!
+5.956
+allreduce end!
+allreduce start!
+6.076
+allreduce end!
+allreduce start!
+9087.42
+allreduce end!
+allreduce start!
+18.762
+allreduce end!
+allreduce start!
+16.167
+allreduce end!
+allreduce start!
+15.31
+allreduce end!
+allreduce start!
+15.572
+allreduce end!
+allreduce start!
+15.986
+allreduce end!
+allreduce start!
+15.636
+allreduce end!
+allreduce start!
+15.206
+allreduce end!
+allreduce start!
+15.78
+allreduce end!
+allreduce start!
+15.202
+allreduce end!
+allreduce start!
+15.163
+allreduce end!
+allreduce start!
+15.37
+allreduce end!
+allreduce start!
+15.529
+allreduce end!
+allreduce start!
+15.18
+allreduce end!
+allreduce start!
+15.392
+allreduce end!
+allreduce start!
+15.135
+allreduce end!
+allreduce start!
+15.442
+allreduce end!
+allreduce start!
+15.2
+allreduce end!
+allreduce start!
+15.182
+allreduce end!
+allreduce start!
+14.953
+allreduce end!
+allreduce start!
+15.565
+allreduce end!
+allreduce start!
+15.47
+allreduce end!
+allreduce start!
+15.292
+allreduce end!
+allreduce start!
+14.33
+allreduce end!
+allreduce start!
+14.427
+allreduce end!
+allreduce start!
+14.546
+allreduce end!
+allreduce start!
+14.803
+allreduce end!
+allreduce start!
+14.438
+allreduce end!
+allreduce start!
+14.608
+allreduce end!
+allreduce start!
+14.379
+allreduce end!
+allreduce start!
+14.617
+allreduce end!
+allreduce start!
+14.184
+allreduce end!
+allreduce start!
+13.612
+allreduce end!
+allreduce start!
+12.948
+allreduce end!
+allreduce start!
+12.421
+allreduce end!
+allreduce start!
+11.775
+allreduce end!
+allreduce start!
+11.576
+allreduce end!
+allreduce start!
+11.996
+allreduce end!
+allreduce start!
+11.711
+allreduce end!
+allreduce start!
+12.417
+allreduce end!
+allreduce start!
+11.259
+allreduce end!
+allreduce start!
+13.437
+allreduce end!
+allreduce start!
+12.453
+allreduce end!
+allreduce start!
+11.934
+allreduce end!
+allreduce start!
+11.596
+allreduce end!
+allreduce start!
+12.701
+allreduce end!
+allreduce start!
+10.857
+allreduce end!
+allreduce start!
+11.901
+allreduce end!
+allreduce start!
+11.07
+allreduce end!
+allreduce start!
+10.797
+allreduce end!
+allreduce start!
+10.85
+allreduce end!
+allreduce start!
+11.134
+allreduce end!
+allreduce start!
+11.279
+allreduce end!
+allreduce start!
+11.378
+allreduce end!
+allreduce start!
+10.849
+allreduce end!
+allreduce start!
+12.358
+allreduce end!
+allreduce start!
+11.36
+allreduce end!
+allreduce start!
+11.364
+allreduce end!
+allreduce start!
+10.364
+allreduce end!
+allreduce start!
+10.252
+allreduce end!
+allreduce start!
+10.064
+allreduce end!
+allreduce start!
+10.812
+allreduce end!
+allreduce start!
+9.844
+allreduce end!
+allreduce start!
+10.126
+allreduce end!
+allreduce start!
+10.196
+allreduce end!
+allreduce start!
+10.227
+allreduce end!
+allreduce start!
+10.139
+allreduce end!
+allreduce start!
+10.236
+allreduce end!
+allreduce start!
+10.678
+allreduce end!
+allreduce start!
+9.583
+allreduce end!
+allreduce start!
+9.91
+allreduce end!
+allreduce start!
+10.028
+allreduce end!
+allreduce start!
+9.68
+allreduce end!
+allreduce start!
+9.669
+allreduce end!
+allreduce start!
+9.988
+allreduce end!
+allreduce start!
+9.79
+allreduce end!
+allreduce start!
+9.73
+allreduce end!
+allreduce start!
+9.693
+allreduce end!
+allreduce start!
+9.717
+allreduce end!
+allreduce start!
+10.184
+allreduce end!
+allreduce start!
+9.938
+allreduce end!
+allreduce start!
+9.74
+allreduce end!
+allreduce start!
+9.394
+allreduce end!
+allreduce start!
+9.178
+allreduce end!
+allreduce start!
+9.527
+allreduce end!
+allreduce start!
+9.452
+allreduce end!
+allreduce start!
+9.122
+allreduce end!
+allreduce start!
+9.651
+allreduce end!
+allreduce start!
+9.33
+allreduce end!
+allreduce start!
+9.249
+allreduce end!
+allreduce start!
+9.47
+allreduce end!
+allreduce start!
+9.172
+allreduce end!
+allreduce start!
+9.55
+allreduce end!
+allreduce start!
+9.003
+allreduce end!
+allreduce start!
+8.622
+allreduce end!
+allreduce start!
+8.828
+allreduce end!
+allreduce start!
+8.947
+allreduce end!
+allreduce start!
+9.404
+allreduce end!
+allreduce start!
+9.386
+allreduce end!
+allreduce start!
+9.475
+allreduce end!
+allreduce start!
+9292.15
+allreduce end!
+allreduce start!
+9.736
+allreduce end!
+allreduce start!
+8.69
+allreduce end!
+allreduce start!
+8.511
+allreduce end!
+allreduce start!
+8.15
+allreduce end!
+allreduce start!
+8.478
+allreduce end!
+allreduce start!
+8.458
+allreduce end!
+allreduce start!
+8.162
+allreduce end!
+allreduce start!
+8.316
+allreduce end!
+allreduce start!
+8.535
+allreduce end!
+allreduce start!
+8.563
+allreduce end!
+allreduce start!
+8.165
+allreduce end!
+allreduce start!
+8.598
+allreduce end!
+allreduce start!
+8.295
+allreduce end!
+allreduce start!
+8.158
+allreduce end!
+allreduce start!
+12.511
+allreduce end!
+allreduce start!
+8.403
+allreduce end!
+allreduce start!
+7.816
+allreduce end!
+allreduce start!
+8.375
+allreduce end!
+allreduce start!
+7.977
+allreduce end!
+allreduce start!
+8.168
+allreduce end!
+allreduce start!
+8.094
+allreduce end!
+allreduce start!
+8.233
+allreduce end!
+allreduce start!
+8.18
+allreduce end!
+allreduce start!
+8.432
+allreduce end!
+allreduce start!
+7.866
+allreduce end!
+allreduce start!
+8.151
+allreduce end!
+allreduce start!
+8.108
+allreduce end!
+allreduce start!
+8.2
+allreduce end!
+allreduce start!
+7.846
+allreduce end!
+allreduce start!
+7.831
+allreduce end!
+allreduce start!
+8.159
+allreduce end!
+allreduce start!
+8.02
+allreduce end!
+allreduce start!
+8.097
+allreduce end!
+allreduce start!
+7.844
+allreduce end!
+allreduce start!
+8.017
+allreduce end!
+allreduce start!
+7.862
+allreduce end!
+allreduce start!
+7.808
+allreduce end!
+allreduce start!
+7.975
+allreduce end!
+allreduce start!
+8.409
+allreduce end!
+allreduce start!
+7.946
+allreduce end!
+allreduce start!
+8.449
+allreduce end!
+allreduce start!
+7.869
+allreduce end!
+allreduce start!
+7.942
+allreduce end!
+allreduce start!
+7.789
+allreduce end!
+allreduce start!
+7.768
+allreduce end!
+allreduce start!
+8.496
+allreduce end!
+allreduce start!
+7.643
+allreduce end!
+allreduce start!
+7.464
+allreduce end!
+allreduce start!
+8.039
+allreduce end!
+allreduce start!
+7.619
+allreduce end!
+allreduce start!
+7.411
+allreduce end!
+allreduce start!
+7.718
+allreduce end!
+allreduce start!
+7.477
+allreduce end!
+allreduce start!
+7.77
+allreduce end!
+allreduce start!
+7.791
+allreduce end!
+allreduce start!
+7.782
+allreduce end!
+allreduce start!
+7.726
+allreduce end!
+allreduce start!
+7.459
+allreduce end!
+allreduce start!
+7.556
+allreduce end!
+allreduce start!
+7.721
+allreduce end!
+allreduce start!
+8.15
+allreduce end!
+allreduce start!
+7.72
+allreduce end!
+allreduce start!
+7.474
+allreduce end!
+allreduce start!
+7.825
+allreduce end!
+allreduce start!
+7.682
+allreduce end!
+allreduce start!
+7.357
+allreduce end!
+allreduce start!
+7.613
+allreduce end!
+allreduce start!
+7.573
+allreduce end!
+allreduce start!
+7.785
+allreduce end!
+allreduce start!
+7.619
+allreduce end!
+allreduce start!
+7.513
+allreduce end!
+allreduce start!
+7.536
+allreduce end!
+allreduce start!
+7.866
+allreduce end!
+allreduce start!
+7.322
+allreduce end!
+allreduce start!
+7.379
+allreduce end!
+allreduce start!
+7.372
+allreduce end!
+allreduce start!
+7.337
+allreduce end!
+allreduce start!
+7.498
+allreduce end!
+allreduce start!
+7.654
+allreduce end!
+allreduce start!
+7.877
+allreduce end!
+allreduce start!
+7.4
+allreduce end!
+allreduce start!
+7.242
+allreduce end!
+allreduce start!
+7.263
+allreduce end!
+allreduce start!
+7.169
+allreduce end!
+allreduce start!
+7.489
+allreduce end!
+allreduce start!
+7.603
+allreduce end!
+allreduce start!
+7.447
+allreduce end!
+allreduce start!
+7.368
+allreduce end!
+allreduce start!
+7.495
+allreduce end!
+allreduce start!
+7.459
+allreduce end!
+allreduce start!
+7.241
+allreduce end!
+allreduce start!
+7.508
+allreduce end!
+allreduce start!
+7.85
+allreduce end!
+allreduce start!
+7.549
+allreduce end!
+allreduce start!
+7.332
+allreduce end!
+allreduce start!
+7.529
+allreduce end!
+allreduce start!
+7.502
+allreduce end!
+allreduce start!
+7.213
+allreduce end!
+allreduce start!
+7.122
+allreduce end!
+allreduce start!
+9234.02
+allreduce end!
+allreduce start!
+11.006
+allreduce end!
+allreduce start!
+9.912
+allreduce end!
+allreduce start!
+10.064
+allreduce end!
+allreduce start!
+9.767
+allreduce end!
+allreduce start!
+9.74
+allreduce end!
+allreduce start!
+9.769
+allreduce end!
+allreduce start!
+9.85
+allreduce end!
+allreduce start!
+9.555
+allreduce end!
+allreduce start!
+9.683
+allreduce end!
+allreduce start!
+9.92
+allreduce end!
+allreduce start!
+9.388
+allreduce end!
+allreduce start!
+9.673
+allreduce end!
+allreduce start!
+9.734
+allreduce end!
+allreduce start!
+9.992
+allreduce end!
+allreduce start!
+9.627
+allreduce end!
+allreduce start!
+10.081
+allreduce end!
+allreduce start!
+9.562
+allreduce end!
+allreduce start!
+9.84
+allreduce end!
+allreduce start!
+9.49
+allreduce end!
+allreduce start!
+9.598
+allreduce end!
+allreduce start!
+9.668
+allreduce end!
+allreduce start!
+9.793
+allreduce end!
+allreduce start!
+9.18
+allreduce end!
+allreduce start!
+9.32
+allreduce end!
+allreduce start!
+9.749
+allreduce end!
+allreduce start!
+9.518
+allreduce end!
+allreduce start!
+9.475
+allreduce end!
+allreduce start!
+9.238
+allreduce end!
+allreduce start!
+9.628
+allreduce end!
+allreduce start!
+9.478
+allreduce end!
+allreduce start!
+9.51
+allreduce end!
+allreduce start!
+9.669
+allreduce end!
+allreduce start!
+9.423
+allreduce end!
+allreduce start!
+9.385
+allreduce end!
+allreduce start!
+18.12
+allreduce end!
+allreduce start!
+9.389
+allreduce end!
+allreduce start!
+9.588
+allreduce end!
+allreduce start!
+9.368
+allreduce end!
+allreduce start!
+9.285
+allreduce end!
+allreduce start!
+9.494
+allreduce end!
+allreduce start!
+9.203
+allreduce end!
+allreduce start!
+9.149
+allreduce end!
+allreduce start!
+9.094
+allreduce end!
+allreduce start!
+9.407
+allreduce end!
+allreduce start!
+9.578
+allreduce end!
+allreduce start!
+9.765
+allreduce end!
+allreduce start!
+9.35
+allreduce end!
+allreduce start!
+9.245
+allreduce end!
+allreduce start!
+9.064
+allreduce end!
+allreduce start!
+8.876
+allreduce end!
+allreduce start!
+9.136
+allreduce end!
+allreduce start!
+9.052
+allreduce end!
+allreduce start!
+9.114
+allreduce end!
+allreduce start!
+9.138
+allreduce end!
+allreduce start!
+8.822
+allreduce end!
+allreduce start!
+8.941
+allreduce end!
+allreduce start!
+8.939
+allreduce end!
+allreduce start!
+9.086
+allreduce end!
+allreduce start!
+8.816
+allreduce end!
+allreduce start!
+8.783
+allreduce end!
+allreduce start!
+8.864
+allreduce end!
+allreduce start!
+8.934
+allreduce end!
+allreduce start!
+8.71
+allreduce end!
+allreduce start!
+8.78
+allreduce end!
+allreduce start!
+9.29
+allreduce end!
+allreduce start!
+8.813
+allreduce end!
+allreduce start!
+8.876
+allreduce end!
+allreduce start!
+8.747
+allreduce end!
+allreduce start!
+8.801
+allreduce end!
+allreduce start!
+8.708
+allreduce end!
+allreduce start!
+8.786
+allreduce end!
+allreduce start!
+8.76
+allreduce end!
+allreduce start!
+9.395
+allreduce end!
+allreduce start!
+8.599
+allreduce end!
+allreduce start!
+8.617
+allreduce end!
+allreduce start!
+8.74
+allreduce end!
+allreduce start!
+8.86
+allreduce end!
+allreduce start!
+8.8
+allreduce end!
+allreduce start!
+8.778
+allreduce end!
+allreduce start!
+8.708
+allreduce end!
+allreduce start!
+8.588
+allreduce end!
+allreduce start!
+8.499
+allreduce end!
+allreduce start!
+8.706
+allreduce end!
+allreduce start!
+8.818
+allreduce end!
+allreduce start!
+8.575
+allreduce end!
+allreduce start!
+8.736
+allreduce end!
+allreduce start!
+8.793
+allreduce end!
+allreduce start!
+8.63
+allreduce end!
+allreduce start!
+8.539
+allreduce end!
+allreduce start!
+8.733
+allreduce end!
+allreduce start!
+8.694
+allreduce end!
+allreduce start!
+8.707
+allreduce end!
+allreduce start!
+8.72
+allreduce end!
+allreduce start!
+8.445
+allreduce end!
+allreduce start!
+8.48
+allreduce end!
+allreduce start!
+8.542
+allreduce end!
+allreduce start!
+8.528
+allreduce end!
+allreduce start!
+8.588
+allreduce end!
+allreduce start!
+8.608
+allreduce end!
+allreduce start!
+9187.53
+allreduce end!
+allreduce start!
+14.684
+allreduce end!
+allreduce start!
+14.375
+allreduce end!
+allreduce start!
+14.069
+allreduce end!
+allreduce start!
+14.053
+allreduce end!
+allreduce start!
+14.115
+allreduce end!
+allreduce start!
+14.028
+allreduce end!
+allreduce start!
+14.17
+allreduce end!
+allreduce start!
+14.004
+allreduce end!
+allreduce start!
+14.078
+allreduce end!
+allreduce start!
+14.133
+allreduce end!
+allreduce start!
+13.951
+allreduce end!
+allreduce start!
+19.801
+allreduce end!
+allreduce start!
+13.785
+allreduce end!
+allreduce start!
+13.856
+allreduce end!
+allreduce start!
+16.477
+allreduce end!
+allreduce start!
+13.782
+allreduce end!
+allreduce start!
+13.796
+allreduce end!
+allreduce start!
+13.933
+allreduce end!
+allreduce start!
+13.677
+allreduce end!
+allreduce start!
+13.924
+allreduce end!
+allreduce start!
+19.181
+allreduce end!
+allreduce start!
+13.52
+allreduce end!
+allreduce start!
+13.572
+allreduce end!
+allreduce start!
+13.588
+allreduce end!
+allreduce start!
+13.789
+allreduce end!
+allreduce start!
+13.589
+allreduce end!
+allreduce start!
+13.86
+allreduce end!
+allreduce start!
+13.626
+allreduce end!
+allreduce start!
+13.526
+allreduce end!
+allreduce start!
+13.644
+allreduce end!
+allreduce start!
+13.549
+allreduce end!
+allreduce start!
+13.553
+allreduce end!
+allreduce start!
+13.668
+allreduce end!
+allreduce start!
+13.382
+allreduce end!
+allreduce start!
+13.402
+allreduce end!
+allreduce start!
+13.303
+allreduce end!
+allreduce start!
+13.397
+allreduce end!
+allreduce start!
+13.344
+allreduce end!
+allreduce start!
+13.294
+allreduce end!
+allreduce start!
+13.62
+allreduce end!
+allreduce start!
+13.374
+allreduce end!
+allreduce start!
+13.551
+allreduce end!
+allreduce start!
+13.239
+allreduce end!
+allreduce start!
+13.411
+allreduce end!
+allreduce start!
+13.156
+allreduce end!
+allreduce start!
+13.113
+allreduce end!
+allreduce start!
+13.307
+allreduce end!
+allreduce start!
+13.373
+allreduce end!
+allreduce start!
+13.158
+allreduce end!
+allreduce start!
+13.227
+allreduce end!
+allreduce start!
+13.358
+allreduce end!
+allreduce start!
+13.343
+allreduce end!
+allreduce start!
+13.186
+allreduce end!
+allreduce start!
+13.299
+allreduce end!
+allreduce start!
+13.385
+allreduce end!
+allreduce start!
+13.293
+allreduce end!
+allreduce start!
+13.072
+allreduce end!
+allreduce start!
+13.213
+allreduce end!
+allreduce start!
+12.905
+allreduce end!
+allreduce start!
+13.26
+allreduce end!
+allreduce start!
+12.984
+allreduce end!
+allreduce start!
+13.257
+allreduce end!
+allreduce start!
+13.073
+allreduce end!
+allreduce start!
+13.206
+allreduce end!
+allreduce start!
+13.048
+allreduce end!
+allreduce start!
+13.202
+allreduce end!
+allreduce start!
+13.147
+allreduce end!
+allreduce start!
+12.986
+allreduce end!
+allreduce start!
+12.86
+allreduce end!
+allreduce start!
+13.626
+allreduce end!
+allreduce start!
+13.033
+allreduce end!
+allreduce start!
+13.137
+allreduce end!
+allreduce start!
+12.945
+allreduce end!
+allreduce start!
+13.2
+allreduce end!
+allreduce start!
+12.926
+allreduce end!
+allreduce start!
+13.056
+allreduce end!
+allreduce start!
+13.672
+allreduce end!
+allreduce start!
+13.239
+allreduce end!
+allreduce start!
+12.997
+allreduce end!
+allreduce start!
+12.946
+allreduce end!
+allreduce start!
+13.047
+allreduce end!
+allreduce start!
+13.044
+allreduce end!
+allreduce start!
+12.813
+allreduce end!
+allreduce start!
+12.83
+allreduce end!
+allreduce start!
+13.051
+allreduce end!
+allreduce start!
+13.061
+allreduce end!
+allreduce start!
+12.849
+allreduce end!
+allreduce start!
+13.067
+allreduce end!
+allreduce start!
+13.07
+allreduce end!
+allreduce start!
+12.93
+allreduce end!
+allreduce start!
+12.777
+allreduce end!
+allreduce start!
+12.761
+allreduce end!
+allreduce start!
+12.893
+allreduce end!
+allreduce start!
+12.817
+allreduce end!
+allreduce start!
+12.693
+allreduce end!
+allreduce start!
+13.485
+allreduce end!
+allreduce start!
+12.909
+allreduce end!
+allreduce start!
+12.855
+allreduce end!
+allreduce start!
+12.741
+allreduce end!
+allreduce start!
+9145.52
+allreduce end!
+allreduce start!
+20.232
+allreduce end!
+allreduce start!
+20.062
+allreduce end!
+allreduce start!
+19.309
+allreduce end!
+allreduce start!
+19.455
+allreduce end!
+allreduce start!
+19.518
+allreduce end!
+allreduce start!
+19.375
+allreduce end!
+allreduce start!
+19.372
+allreduce end!
+allreduce start!
+19.539
+allreduce end!
+allreduce start!
+19.386
+allreduce end!
+allreduce start!
+19.112
+allreduce end!
+allreduce start!
+19.793
+allreduce end!
+allreduce start!
+19.313
+allreduce end!
+allreduce start!
+19.39
+allreduce end!
+allreduce start!
+19.12
+allreduce end!
+allreduce start!
+19.06
+allreduce end!
+allreduce start!
+19.356
+allreduce end!
+allreduce start!
+19.192
+allreduce end!
+allreduce start!
+19.371
+allreduce end!
+allreduce start!
+19.318
+allreduce end!
+allreduce start!
+19.345
+allreduce end!
+allreduce start!
+19.316
+allreduce end!
+allreduce start!
+18.855
+allreduce end!
+allreduce start!
+19.025
+allreduce end!
+allreduce start!
+18.986
+allreduce end!
+allreduce start!
+19.094
+allreduce end!
+allreduce start!
+19.075
+allreduce end!
+allreduce start!
+19.06
+allreduce end!
+allreduce start!
+19.173
+allreduce end!
+allreduce start!
+19.288
+allreduce end!
+allreduce start!
+19.19
+allreduce end!
+allreduce start!
+19.099
+allreduce end!
+allreduce start!
+19.171
+allreduce end!
+allreduce start!
+18.974
+allreduce end!
+allreduce start!
+19.094
+allreduce end!
+allreduce start!
+18.814
+allreduce end!
+allreduce start!
+18.955
+allreduce end!
+allreduce start!
+19.006
+allreduce end!
+allreduce start!
+18.893
+allreduce end!
+allreduce start!
+18.719
+allreduce end!
+allreduce start!
+19.125
+allreduce end!
+allreduce start!
+18.812
+allreduce end!
+allreduce start!
+18.943
+allreduce end!
+allreduce start!
+19.037
+allreduce end!
+allreduce start!
+19.005
+allreduce end!
+allreduce start!
+20.001
+allreduce end!
+allreduce start!
+18.78
+allreduce end!
+allreduce start!
+18.659
+allreduce end!
+allreduce start!
+19.343
+allreduce end!
+allreduce start!
+18.905
+allreduce end!
+allreduce start!
+18.536
+allreduce end!
+allreduce start!
+18.896
+allreduce end!
+allreduce start!
+18.79
+allreduce end!
+allreduce start!
+19.169
+allreduce end!
+allreduce start!
+19.115
+allreduce end!
+allreduce start!
+18.803
+allreduce end!
+allreduce start!
+18.492
+allreduce end!
+allreduce start!
+18.463
+allreduce end!
+allreduce start!
+18.718
+allreduce end!
+allreduce start!
+18.893
+allreduce end!
+allreduce start!
+18.916
+allreduce end!
+allreduce start!
+18.153
+allreduce end!
+allreduce start!
+18.052
+allreduce end!
+allreduce start!
+18.852
+allreduce end!
+allreduce start!
+18.465
+allreduce end!
+allreduce start!
+19.528
+allreduce end!
+allreduce start!
+18.267
+allreduce end!
+allreduce start!
+18.307
+allreduce end!
+allreduce start!
+18.214
+allreduce end!
+allreduce start!
+18.272
+allreduce end!
+allreduce start!
+18.254
+allreduce end!
+allreduce start!
+18.143
+allreduce end!
+allreduce start!
+18.192
+allreduce end!
+allreduce start!
+18.215
+allreduce end!
+allreduce start!
+17.971
+allreduce end!
+allreduce start!
+18.192
+allreduce end!
+allreduce start!
+17.97
+allreduce end!
+allreduce start!
+18.096
+allreduce end!
+allreduce start!
+18.279
+allreduce end!
+allreduce start!
+18.177
+allreduce end!
+allreduce start!
+18.121
+allreduce end!
+allreduce start!
+18.143
+allreduce end!
+allreduce start!
+18.213
+allreduce end!
+allreduce start!
+18.106
+allreduce end!
+allreduce start!
+17.872
+allreduce end!
+allreduce start!
+18.119
+allreduce end!
+allreduce start!
+18.103
+allreduce end!
+allreduce start!
+18.357
+allreduce end!
+allreduce start!
+18.13
+allreduce end!
+allreduce start!
+18.081
+allreduce end!
+allreduce start!
+18.111
+allreduce end!
+allreduce start!
+17.868
+allreduce end!
+allreduce start!
+17.913
+allreduce end!
+allreduce start!
+17.988
+allreduce end!
+allreduce start!
+18.184
+allreduce end!
+allreduce start!
+17.959
+allreduce end!
+allreduce start!
+18.192
+allreduce end!
+allreduce start!
+17.963
+allreduce end!
+allreduce start!
+17.979
+allreduce end!
+allreduce start!
+17.974
+allreduce end!
+allreduce start!
+9275.26
+allreduce end!
+allreduce start!
+30
+allreduce end!
+allreduce start!
+29.215
+allreduce end!
+allreduce start!
+29.793
+allreduce end!
+allreduce start!
+29.178
+allreduce end!
+allreduce start!
+29.28
+allreduce end!
+allreduce start!
+29.514
+allreduce end!
+allreduce start!
+29.433
+allreduce end!
+allreduce start!
+29.4
+allreduce end!
+allreduce start!
+29.46
+allreduce end!
+allreduce start!
+29.187
+allreduce end!
+allreduce start!
+29.212
+allreduce end!
+allreduce start!
+29.213
+allreduce end!
+allreduce start!
+29.156
+allreduce end!
+allreduce start!
+29.092
+allreduce end!
+allreduce start!
+29.517
+allreduce end!
+allreduce start!
+29.441
+allreduce end!
+allreduce start!
+29.225
+allreduce end!
+allreduce start!
+29.112
+allreduce end!
+allreduce start!
+29.328
+allreduce end!
+allreduce start!
+29.324
+allreduce end!
+allreduce start!
+29.115
+allreduce end!
+allreduce start!
+28.652
+allreduce end!
+allreduce start!
+29.035
+allreduce end!
+allreduce start!
+28.842
+allreduce end!
+allreduce start!
+29
+allreduce end!
+allreduce start!
+29.542
+allreduce end!
+allreduce start!
+28.989
+allreduce end!
+allreduce start!
+28.867
+allreduce end!
+allreduce start!
+29.115
+allreduce end!
+allreduce start!
+29.18
+allreduce end!
+allreduce start!
+29.244
+allreduce end!
+allreduce start!
+29.11
+allreduce end!
+allreduce start!
+29.138
+allreduce end!
+allreduce start!
+28.963
+allreduce end!
+allreduce start!
+28.705
+allreduce end!
+allreduce start!
+29.308
+allreduce end!
+allreduce start!
+28.72
+allreduce end!
+allreduce start!
+28.782
+allreduce end!
+allreduce start!
+29.086
+allreduce end!
+allreduce start!
+29.12
+allreduce end!
+allreduce start!
+29.117
+allreduce end!
+allreduce start!
+28.765
+allreduce end!
+allreduce start!
+28.718
+allreduce end!
+allreduce start!
+29.041
+allreduce end!
+allreduce start!
+29.022
+allreduce end!
+allreduce start!
+28.784
+allreduce end!
+allreduce start!
+28.697
+allreduce end!
+allreduce start!
+28.965
+allreduce end!
+allreduce start!
+28.649
+allreduce end!
+allreduce start!
+28.583
+allreduce end!
+allreduce start!
+28.726
+allreduce end!
+allreduce start!
+28.615
+allreduce end!
+allreduce start!
+29.035
+allreduce end!
+allreduce start!
+28.954
+allreduce end!
+allreduce start!
+28.82
+allreduce end!
+allreduce start!
+28.411
+allreduce end!
+allreduce start!
+28.653
+allreduce end!
+allreduce start!
+28.663
+allreduce end!
+allreduce start!
+28.658
+allreduce end!
+allreduce start!
+28.302
+allreduce end!
+allreduce start!
+28.423
+allreduce end!
+allreduce start!
+29.107
+allreduce end!
+allreduce start!
+28.414
+allreduce end!
+allreduce start!
+28.766
+allreduce end!
+allreduce start!
+28.802
+allreduce end!
+allreduce start!
+28.664
+allreduce end!
+allreduce start!
+28.586
+allreduce end!
+allreduce start!
+28.492
+allreduce end!
+allreduce start!
+28.266
+allreduce end!
+allreduce start!
+28.436
+allreduce end!
+allreduce start!
+28.42
+allreduce end!
+allreduce start!
+28.289
+allreduce end!
+allreduce start!
+28.411
+allreduce end!
+allreduce start!
+28.407
+allreduce end!
+allreduce start!
+28.535
+allreduce end!
+allreduce start!
+28.212
+allreduce end!
+allreduce start!
+28.538
+allreduce end!
+allreduce start!
+28.261
+allreduce end!
+allreduce start!
+28.092
+allreduce end!
+allreduce start!
+28.432
+allreduce end!
+allreduce start!
+28.188
+allreduce end!
+allreduce start!
+28.235
+allreduce end!
+allreduce start!
+28.684
+allreduce end!
+allreduce start!
+28.286
+allreduce end!
+allreduce start!
+28.549
+allreduce end!
+allreduce start!
+28.243
+allreduce end!
+allreduce start!
+28.156
+allreduce end!
+allreduce start!
+28.535
+allreduce end!
+allreduce start!
+28.225
+allreduce end!
+allreduce start!
+28.096
+allreduce end!
+allreduce start!
+28.162
+allreduce end!
+allreduce start!
+28.897
+allreduce end!
+allreduce start!
+28.075
+allreduce end!
+allreduce start!
+28.766
+allreduce end!
+allreduce start!
+28.546
+allreduce end!
+allreduce start!
+28.535
+allreduce end!
+allreduce start!
+28.174
+allreduce end!
+allreduce start!
+28.146
+allreduce end!
+allreduce start!
+28.227
+allreduce end!
+allreduce start!
+9219.36
+allreduce end!
+allreduce start!
+49.899
+allreduce end!
+allreduce start!
+49.506
+allreduce end!
+allreduce start!
+49.156
+allreduce end!
+allreduce start!
+49.497
+allreduce end!
+allreduce start!
+49.382
+allreduce end!
+allreduce start!
+49.326
+allreduce end!
+allreduce start!
+49.311
+allreduce end!
+allreduce start!
+49.299
+allreduce end!
+allreduce start!
+49.282
+allreduce end!
+allreduce start!
+49.749
+allreduce end!
+allreduce start!
+48.902
+allreduce end!
+allreduce start!
+48.965
+allreduce end!
+allreduce start!
+48.697
+allreduce end!
+allreduce start!
+49.08
+allreduce end!
+allreduce start!
+49.006
+allreduce end!
+allreduce start!
+48.81
+allreduce end!
+allreduce start!
+49.182
+allreduce end!
+allreduce start!
+48.834
+allreduce end!
+allreduce start!
+48.988
+allreduce end!
+allreduce start!
+49.432
+allreduce end!
+allreduce start!
+48.611
+allreduce end!
+allreduce start!
+48.697
+allreduce end!
+allreduce start!
+48.728
+allreduce end!
+allreduce start!
+48.88
+allreduce end!
+allreduce start!
+49.146
+allreduce end!
+allreduce start!
+49.329
+allreduce end!
+allreduce start!
+48.435
+allreduce end!
+allreduce start!
+53.339
+allreduce end!
+allreduce start!
+48.653
+allreduce end!
+allreduce start!
+48.677
+allreduce end!
+allreduce start!
+49.12
+allreduce end!
+allreduce start!
+48.999
+allreduce end!
+allreduce start!
+48.609
+allreduce end!
+allreduce start!
+48.427
+allreduce end!
+allreduce start!
+48.459
+allreduce end!
+allreduce start!
+48.653
+allreduce end!
+allreduce start!
+48.447
+allreduce end!
+allreduce start!
+48.596
+allreduce end!
+allreduce start!
+48.39
+allreduce end!
+allreduce start!
+48.735
+allreduce end!
+allreduce start!
+48.439
+allreduce end!
+allreduce start!
+48.767
+allreduce end!
+allreduce start!
+48.792
+allreduce end!
+allreduce start!
+48.374
+allreduce end!
+allreduce start!
+48.637
+allreduce end!
+allreduce start!
+48.382
+allreduce end!
+allreduce start!
+48.348
+allreduce end!
+allreduce start!
+48.571
+allreduce end!
+allreduce start!
+48.175
+allreduce end!
+allreduce start!
+48.309
+allreduce end!
+allreduce start!
+49.343
+allreduce end!
+allreduce start!
+48.327
+allreduce end!
+allreduce start!
+48.144
+allreduce end!
+allreduce start!
+48.125
+allreduce end!
+allreduce start!
+48.902
+allreduce end!
+allreduce start!
+48.657
+allreduce end!
+allreduce start!
+48.207
+allreduce end!
+allreduce start!
+48.656
+allreduce end!
+allreduce start!
+48.737
+allreduce end!
+allreduce start!
+48.01
+allreduce end!
+allreduce start!
+48.193
+allreduce end!
+allreduce start!
+48.861
+allreduce end!
+allreduce start!
+48.308
+allreduce end!
+allreduce start!
+48.517
+allreduce end!
+allreduce start!
+47.94
+allreduce end!
+allreduce start!
+48.112
+allreduce end!
+allreduce start!
+48.42
+allreduce end!
+allreduce start!
+48.196
+allreduce end!
+allreduce start!
+47.985
+allreduce end!
+allreduce start!
+48.432
+allreduce end!
+allreduce start!
+48.314
+allreduce end!
+allreduce start!
+48.047
+allreduce end!
+allreduce start!
+48.493
+allreduce end!
+allreduce start!
+48.147
+allreduce end!
+allreduce start!
+47.742
+allreduce end!
+allreduce start!
+47.721
+allreduce end!
+allreduce start!
+48.11
+allreduce end!
+allreduce start!
+48.3
+allreduce end!
+allreduce start!
+47.93
+allreduce end!
+allreduce start!
+48.043
+allreduce end!
+allreduce start!
+47.997
+allreduce end!
+allreduce start!
+48.634
+allreduce end!
+allreduce start!
+48.053
+allreduce end!
+allreduce start!
+47.992
+allreduce end!
+allreduce start!
+47.756
+allreduce end!
+allreduce start!
+47.784
+allreduce end!
+allreduce start!
+48.67
+allreduce end!
+allreduce start!
+47.828
+allreduce end!
+allreduce start!
+47.689
+allreduce end!
+allreduce start!
+47.789
+allreduce end!
+allreduce start!
+47.92
+allreduce end!
+allreduce start!
+47.771
+allreduce end!
+allreduce start!
+48.092
+allreduce end!
+allreduce start!
+48.022
+allreduce end!
+allreduce start!
+48.137
+allreduce end!
+allreduce start!
+48.08
+allreduce end!
+allreduce start!
+47.938
+allreduce end!
+allreduce start!
+47.928
+allreduce end!
+allreduce start!
+47.724
+allreduce end!
+allreduce start!
+9442.49
+allreduce end!
+allreduce start!
+89.199
+allreduce end!
+allreduce start!
+89.658
+allreduce end!
+allreduce start!
+89.415
+allreduce end!
+allreduce start!
+89.437
+allreduce end!
+allreduce start!
+89.566
+allreduce end!
+allreduce start!
+89.163
+allreduce end!
+allreduce start!
+88.953
+allreduce end!
+allreduce start!
+89.369
+allreduce end!
+allreduce start!
+89.19
+allreduce end!
+allreduce start!
+89.403
+allreduce end!
+allreduce start!
+89.387
+allreduce end!
+allreduce start!
+88.986
+allreduce end!
+allreduce start!
+89.462
+allreduce end!
+allreduce start!
+88.491
+allreduce end!
+allreduce start!
+89.49
+allreduce end!
+allreduce start!
+88.806
+allreduce end!
+allreduce start!
+88.466
+allreduce end!
+allreduce start!
+89.304
+allreduce end!
+allreduce start!
+88.387
+allreduce end!
+allreduce start!
+88.896
+allreduce end!
+allreduce start!
+89.053
+allreduce end!
+allreduce start!
+88.696
+allreduce end!
+allreduce start!
+88.951
+allreduce end!
+allreduce start!
+88.369
+allreduce end!
+allreduce start!
+88.657
+allreduce end!
+allreduce start!
+89
+allreduce end!
+allreduce start!
+88.462
+allreduce end!
+allreduce start!
+88.933
+allreduce end!
+allreduce start!
+89.346
+allreduce end!
+allreduce start!
+89.292
+allreduce end!
+allreduce start!
+88.9
+allreduce end!
+allreduce start!
+88.835
+allreduce end!
+allreduce start!
+88.894
+allreduce end!
+allreduce start!
+88.872
+allreduce end!
+allreduce start!
+87.846
+allreduce end!
+allreduce start!
+88.249
+allreduce end!
+allreduce start!
+89.014
+allreduce end!
+allreduce start!
+88.109
+allreduce end!
+allreduce start!
+89.331
+allreduce end!
+allreduce start!
+88.997
+allreduce end!
+allreduce start!
+88.686
+allreduce end!
+allreduce start!
+89.084
+allreduce end!
+allreduce start!
+88.779
+allreduce end!
+allreduce start!
+88.657
+allreduce end!
+allreduce start!
+88.406
+allreduce end!
+allreduce start!
+88.751
+allreduce end!
+allreduce start!
+88.083
+allreduce end!
+allreduce start!
+88.993
+allreduce end!
+allreduce start!
+88.054
+allreduce end!
+allreduce start!
+88.8
+allreduce end!
+allreduce start!
+88.493
+allreduce end!
+allreduce start!
+88.975
+allreduce end!
+allreduce start!
+87.962
+allreduce end!
+allreduce start!
+88.415
+allreduce end!
+allreduce start!
+88.492
+allreduce end!
+allreduce start!
+88.802
+allreduce end!
+allreduce start!
+88.785
+allreduce end!
+allreduce start!
+88.387
+allreduce end!
+allreduce start!
+88.652
+allreduce end!
+allreduce start!
+87.743
+allreduce end!
+allreduce start!
+88.444
+allreduce end!
+allreduce start!
+88.764
+allreduce end!
+allreduce start!
+87.587
+allreduce end!
+allreduce start!
+88.269
+allreduce end!
+allreduce start!
+88.085
+allreduce end!
+allreduce start!
+88.629
+allreduce end!
+allreduce start!
+94.919
+allreduce end!
+allreduce start!
+88.385
+allreduce end!
+allreduce start!
+87.515
+allreduce end!
+allreduce start!
+88.325
+allreduce end!
+allreduce start!
+88.033
+allreduce end!
+allreduce start!
+88.169
+allreduce end!
+allreduce start!
+88.363
+allreduce end!
+allreduce start!
+88.316
+allreduce end!
+allreduce start!
+87.702
+allreduce end!
+allreduce start!
+88.369
+allreduce end!
+allreduce start!
+88.371
+allreduce end!
+allreduce start!
+87.609
+allreduce end!
+allreduce start!
+88.324
+allreduce end!
+allreduce start!
+88.376
+allreduce end!
+allreduce start!
+88.264
+allreduce end!
+allreduce start!
+88.173
+allreduce end!
+allreduce start!
+88.354
+allreduce end!
+allreduce start!
+88.619
+allreduce end!
+allreduce start!
+88.178
+allreduce end!
+allreduce start!
+88.18
+allreduce end!
+allreduce start!
+87.905
+allreduce end!
+allreduce start!
+87.614
+allreduce end!
+allreduce start!
+88.904
+allreduce end!
+allreduce start!
+88.08
+allreduce end!
+allreduce start!
+88.424
+allreduce end!
+allreduce start!
+88.67
+allreduce end!
+allreduce start!
+88.403
+allreduce end!
+allreduce start!
+88.077
+allreduce end!
+allreduce start!
+88.217
+allreduce end!
+allreduce start!
+93.451
+allreduce end!
+allreduce start!
+87.88
+allreduce end!
+allreduce start!
+88.251
+allreduce end!
+allreduce start!
+87.387
+allreduce end!
+allreduce start!
+9451.37
+allreduce end!
+allreduce start!
+169.177
+allreduce end!
+allreduce start!
+168.775
+allreduce end!
+allreduce start!
+168.282
+allreduce end!
+allreduce start!
+168.006
+allreduce end!
+allreduce start!
+167.81
+allreduce end!
+allreduce start!
+167.974
+allreduce end!
+allreduce start!
+168.035
+allreduce end!
+allreduce start!
+168.151
+allreduce end!
+allreduce start!
+167.791
+allreduce end!
+allreduce start!
+167.768
+allreduce end!
+allreduce start!
+167.633
+allreduce end!
+allreduce start!
+168.085
+allreduce end!
+allreduce start!
+167.972
+allreduce end!
+allreduce start!
+167.979
+allreduce end!
+allreduce start!
+167.774
+allreduce end!
+allreduce start!
+168.259
+allreduce end!
+allreduce start!
+167.707
+allreduce end!
+allreduce start!
+167.762
+allreduce end!
+allreduce start!
+167.556
+allreduce end!
+allreduce start!
+167.656
+allreduce end!
+allreduce start!
+167.69
+allreduce end!
+allreduce start!
+168.116
+allreduce end!
+allreduce start!
+167.509
+allreduce end!
+allreduce start!
+167.913
+allreduce end!
+allreduce start!
+167.726
+allreduce end!
+allreduce start!
+167.788
+allreduce end!
+allreduce start!
+168.096
+allreduce end!
+allreduce start!
+167.813
+allreduce end!
+allreduce start!
+167.575
+allreduce end!
+allreduce start!
+167.83
+allreduce end!
+allreduce start!
+167.473
+allreduce end!
+allreduce start!
+167.569
+allreduce end!
+allreduce start!
+167.57
+allreduce end!
+allreduce start!
+167.479
+allreduce end!
+allreduce start!
+167.606
+allreduce end!
+allreduce start!
+167.75
+allreduce end!
+allreduce start!
+167.617
+allreduce end!
+allreduce start!
+167.598
+allreduce end!
+allreduce start!
+167.371
+allreduce end!
+allreduce start!
+167.494
+allreduce end!
+allreduce start!
+167.355
+allreduce end!
+allreduce start!
+167.646
+allreduce end!
+allreduce start!
+167.567
+allreduce end!
+allreduce start!
+167.533
+allreduce end!
+allreduce start!
+167.746
+allreduce end!
+allreduce start!
+168.428
+allreduce end!
+allreduce start!
+167.615
+allreduce end!
+allreduce start!
+167.82
+allreduce end!
+allreduce start!
+167.459
+allreduce end!
+allreduce start!
+168.033
+allreduce end!
+allreduce start!
+167.307
+allreduce end!
+allreduce start!
+167.285
+allreduce end!
+allreduce start!
+167.452
+allreduce end!
+allreduce start!
+167.519
+allreduce end!
+allreduce start!
+167.392
+allreduce end!
+allreduce start!
+167.602
+allreduce end!
+allreduce start!
+167.23
+allreduce end!
+allreduce start!
+166.733
+allreduce end!
+allreduce start!
+167.433
+allreduce end!
+allreduce start!
+167.155
+allreduce end!
+allreduce start!
+167.383
+allreduce end!
+allreduce start!
+167.37
+allreduce end!
+allreduce start!
+167.194
+allreduce end!
+allreduce start!
+167.617
+allreduce end!
+allreduce start!
+166.995
+allreduce end!
+allreduce start!
+167.429
+allreduce end!
+allreduce start!
+166.998
+allreduce end!
+allreduce start!
+167.08
+allreduce end!
+allreduce start!
+167.373
+allreduce end!
+allreduce start!
+167.107
+allreduce end!
+allreduce start!
+169.721
+allreduce end!
+allreduce start!
+167.197
+allreduce end!
+allreduce start!
+167.53
+allreduce end!
+allreduce start!
+167.091
+allreduce end!
+allreduce start!
+167.263
+allreduce end!
+allreduce start!
+167.354
+allreduce end!
+allreduce start!
+166.91
+allreduce end!
+allreduce start!
+167.109
+allreduce end!
+allreduce start!
+167.14
+allreduce end!
+allreduce start!
+167.324
+allreduce end!
+allreduce start!
+167.374
+allreduce end!
+allreduce start!
+167.222
+allreduce end!
+allreduce start!
+166.722
+allreduce end!
+allreduce start!
+167.048
+allreduce end!
+allreduce start!
+167.263
+allreduce end!
+allreduce start!
+166.95
+allreduce end!
+allreduce start!
+167.232
+allreduce end!
+allreduce start!
+166.847
+allreduce end!
+allreduce start!
+167.184
+allreduce end!
+allreduce start!
+167.313
+allreduce end!
+allreduce start!
+167.228
+allreduce end!
+allreduce start!
+167.148
+allreduce end!
+allreduce start!
+167.329
+allreduce end!
+allreduce start!
+166.809
+allreduce end!
+allreduce start!
+167.301
+allreduce end!
+allreduce start!
+166.949
+allreduce end!
+allreduce start!
+167.153
+allreduce end!
+allreduce start!
+167.028
+allreduce end!
+allreduce start!
+167.575
+allreduce end!
+allreduce start!
+9744.58
+allreduce end!
+allreduce start!
+331.308
+allreduce end!
+allreduce start!
+330.142
+allreduce end!
+allreduce start!
+329.491
+allreduce end!
+allreduce start!
+329.056
+allreduce end!
+allreduce start!
+329.282
+allreduce end!
+allreduce start!
+329.876
+allreduce end!
+allreduce start!
+329.563
+allreduce end!
+allreduce start!
+328.872
+allreduce end!
+allreduce start!
+328.835
+allreduce end!
+allreduce start!
+329.344
+allreduce end!
+allreduce start!
+329.124
+allreduce end!
+allreduce start!
+329.747
+allreduce end!
+allreduce start!
+329.686
+allreduce end!
+allreduce start!
+329.156
+allreduce end!
+allreduce start!
+330.111
+allreduce end!
+allreduce start!
+329.693
+allreduce end!
+allreduce start!
+329.338
+allreduce end!
+allreduce start!
+329.119
+allreduce end!
+allreduce start!
+329.371
+allreduce end!
+allreduce start!
+328.901
+allreduce end!
+allreduce start!
+328.591
+allreduce end!
+allreduce start!
+328.957
+allreduce end!
+allreduce start!
+329.479
+allreduce end!
+allreduce start!
+328.445
+allreduce end!
+allreduce start!
+328.443
+allreduce end!
+allreduce start!
+328.965
+allreduce end!
+allreduce start!
+329.208
+allreduce end!
+allreduce start!
+328.803
+allreduce end!
+allreduce start!
+329.636
+allreduce end!
+allreduce start!
+328.667
+allreduce end!
+allreduce start!
+329.408
+allreduce end!
+allreduce start!
+328.214
+allreduce end!
+allreduce start!
+329.639
+allreduce end!
+allreduce start!
+328.836
+allreduce end!
+allreduce start!
+329.848
+allreduce end!
+allreduce start!
+329.255
+allreduce end!
+allreduce start!
+328.885
+allreduce end!
+allreduce start!
+329.069
+allreduce end!
+allreduce start!
+328.909
+allreduce end!
+allreduce start!
+328.824
+allreduce end!
+allreduce start!
+330.19
+allreduce end!
+allreduce start!
+328.562
+allreduce end!
+allreduce start!
+329.024
+allreduce end!
+allreduce start!
+329.796
+allreduce end!
+allreduce start!
+328.389
+allreduce end!
+allreduce start!
+327.987
+allreduce end!
+allreduce start!
+328.93
+allreduce end!
+allreduce start!
+328.906
+allreduce end!
+allreduce start!
+328.763
+allreduce end!
+allreduce start!
+328.577
+allreduce end!
+allreduce start!
+339.758
+allreduce end!
+allreduce start!
+328.299
+allreduce end!
+allreduce start!
+329.173
+allreduce end!
+allreduce start!
+329.265
+allreduce end!
+allreduce start!
+329.115
+allreduce end!
+allreduce start!
+328.991
+allreduce end!
+allreduce start!
+329.201
+allreduce end!
+allreduce start!
+327.681
+allreduce end!
+allreduce start!
+329.365
+allreduce end!
+allreduce start!
+329.39
+allreduce end!
+allreduce start!
+329.22
+allreduce end!
+allreduce start!
+328.891
+allreduce end!
+allreduce start!
+328.184
+allreduce end!
+allreduce start!
+328.616
+allreduce end!
+allreduce start!
+328.882
+allreduce end!
+allreduce start!
+329.151
+allreduce end!
+allreduce start!
+328.938
+allreduce end!
+allreduce start!
+339.147
+allreduce end!
+allreduce start!
+328.975
+allreduce end!
+allreduce start!
+328.809
+allreduce end!
+allreduce start!
+328.155
+allreduce end!
+allreduce start!
+328.648
+allreduce end!
+allreduce start!
+328.514
+allreduce end!
+allreduce start!
+328.846
+allreduce end!
+allreduce start!
+327.168
+allreduce end!
+allreduce start!
+328.032
+allreduce end!
+allreduce start!
+328.678
+allreduce end!
+allreduce start!
+328.255
+allreduce end!
+allreduce start!
+328.993
+allreduce end!
+allreduce start!
+328.778
+allreduce end!
+allreduce start!
+328.59
+allreduce end!
+allreduce start!
+329.213
+allreduce end!
+allreduce start!
+328.201
+allreduce end!
+allreduce start!
+329.823
+allreduce end!
+allreduce start!
+340.681
+allreduce end!
+allreduce start!
+328.654
+allreduce end!
+allreduce start!
+329.311
+allreduce end!
+allreduce start!
+329.395
+allreduce end!
+allreduce start!
+328.238
+allreduce end!
+allreduce start!
+327.565
+allreduce end!
+allreduce start!
+329.235
+allreduce end!
+allreduce start!
+328.445
+allreduce end!
+allreduce start!
+327.99
+allreduce end!
+allreduce start!
+328.441
+allreduce end!
+allreduce start!
+327.951
+allreduce end!
+allreduce start!
+327.963
+allreduce end!
+allreduce start!
+328.94
+allreduce end!
+allreduce start!
+327.231
+allreduce end!
+allreduce start!
+328.057
+allreduce end!
+allreduce start!
+10126.5
+allreduce end!
+allreduce start!
+656.303
+allreduce end!
+allreduce start!
+663.226
+allreduce end!
+allreduce start!
+665.658
+allreduce end!
+allreduce start!
+653.469
+allreduce end!
+allreduce start!
+652.337
+allreduce end!
+allreduce start!
+653.944
+allreduce end!
+allreduce start!
+653.826
+allreduce end!
+allreduce start!
+652.956
+allreduce end!
+allreduce start!
+663.833
+allreduce end!
+allreduce start!
+654.324
+allreduce end!
+allreduce start!
+654.157
+allreduce end!
+allreduce start!
+652.153
+allreduce end!
+allreduce start!
+664.813
+allreduce end!
+allreduce start!
+653.378
+allreduce end!
+allreduce start!
+660.281
+allreduce end!
+allreduce start!
+654.235
+allreduce end!
+allreduce start!
+654.769
+allreduce end!
+allreduce start!
+653.49
+allreduce end!
+allreduce start!
+652.054
+allreduce end!
+allreduce start!
+654.029
+allreduce end!
+allreduce start!
+659.348
+allreduce end!
+allreduce start!
+654.161
+allreduce end!
+allreduce start!
+653.094
+allreduce end!
+allreduce start!
+652.451
+allreduce end!
+allreduce start!
+652.924
+allreduce end!
+allreduce start!
+655.257
+allreduce end!
+allreduce start!
+660.93
+allreduce end!
+allreduce start!
+659.009
+allreduce end!
+allreduce start!
+654.891
+allreduce end!
+allreduce start!
+655.536
+allreduce end!
+allreduce start!
+654.15
+allreduce end!
+allreduce start!
+653.694
+allreduce end!
+allreduce start!
+651.245
+allreduce end!
+allreduce start!
+654.235
+allreduce end!
+allreduce start!
+656.888
+allreduce end!
+allreduce start!
+654.189
+allreduce end!
+allreduce start!
+655.808
+allreduce end!
+allreduce start!
+672.327
+allreduce end!
+allreduce start!
+655.812
+allreduce end!
+allreduce start!
+655.562
+allreduce end!
+allreduce start!
+653.346
+allreduce end!
+allreduce start!
+652.463
+allreduce end!
+allreduce start!
+655.419
+allreduce end!
+allreduce start!
+653.919
+allreduce end!
+allreduce start!
+651.291
+allreduce end!
+allreduce start!
+654.073
+allreduce end!
+allreduce start!
+656.311
+allreduce end!
+allreduce start!
+655.066
+allreduce end!
+allreduce start!
+654.222
+allreduce end!
+allreduce start!
+655.737
+allreduce end!
+allreduce start!
+656.185
+allreduce end!
+allreduce start!
+655.312
+allreduce end!
+allreduce start!
+655.611
+allreduce end!
+allreduce start!
+654.02
+allreduce end!
+allreduce start!
+650.34
+allreduce end!
+allreduce start!
+653.65
+allreduce end!
+allreduce start!
+654.103
+allreduce end!
+allreduce start!
+654.51
+allreduce end!
+allreduce start!
+652.042
+allreduce end!
+allreduce start!
+655.424
+allreduce end!
+allreduce start!
+657.741
+allreduce end!
+allreduce start!
+655.386
+allreduce end!
+allreduce start!
+653.064
+allreduce end!
+allreduce start!
+652.829
+allreduce end!
+allreduce start!
+653.522
+allreduce end!
+allreduce start!
+654.761
+allreduce end!
+allreduce start!
+655.385
+allreduce end!
+allreduce start!
+653.712
+allreduce end!
+allreduce start!
+655.445
+allreduce end!
+allreduce start!
+655.441
+allreduce end!
+allreduce start!
+653.85
+allreduce end!
+allreduce start!
+676.96
+allreduce end!
+allreduce start!
+655.809
+allreduce end!
+allreduce start!
+656.102
+allreduce end!
+allreduce start!
+656.103
+allreduce end!
+allreduce start!
+654.678
+allreduce end!
+allreduce start!
+658.071
+allreduce end!
+allreduce start!
+656.687
+allreduce end!
+allreduce start!
+656.124
+allreduce end!
+allreduce start!
+658.67
+allreduce end!
+allreduce start!
+658.394
+allreduce end!
+allreduce start!
+658.259
+allreduce end!
+allreduce start!
+656.994
+allreduce end!
+allreduce start!
+658.379
+allreduce end!
+allreduce start!
+658.283
+allreduce end!
+allreduce start!
+657.121
+allreduce end!
+allreduce start!
+655.902
+allreduce end!
+allreduce start!
+656.914
+allreduce end!
+allreduce start!
+656.056
+allreduce end!
+allreduce start!
+656.32
+allreduce end!
+allreduce start!
+655.997
+allreduce end!
+allreduce start!
+658.542
+allreduce end!
+allreduce start!
+659.219
+allreduce end!
+allreduce start!
+655.722
+allreduce end!
+allreduce start!
+656.917
+allreduce end!
+allreduce start!
+659.691
+allreduce end!
+allreduce start!
+657.278
+allreduce end!
+allreduce start!
+654.082
+allreduce end!
+allreduce start!
+657.307
+allreduce end!
+allreduce start!
+10844.6
+allreduce end!
+allreduce start!
+1349.17
+allreduce end!
+allreduce start!
+1352.65
+allreduce end!
+allreduce start!
+1342.34
+allreduce end!
+allreduce start!
+1340.57
+allreduce end!
+allreduce start!
+1336.95
+allreduce end!
+allreduce start!
+1344.4
+allreduce end!
+allreduce start!
+1351.43
+allreduce end!
+allreduce start!
+1341.78
+allreduce end!
+allreduce start!
+1346.59
+allreduce end!
+allreduce start!
+1346.71
+allreduce end!
+allreduce start!
+1339.28
+allreduce end!
+allreduce start!
+1340.35
+allreduce end!
+allreduce start!
+1356.73
+allreduce end!
+allreduce start!
+1340.84
+allreduce end!
+allreduce start!
+1354.03
+allreduce end!
+allreduce start!
+1357.07
+allreduce end!
+allreduce start!
+1339.53
+allreduce end!
+allreduce start!
+1344.45
+allreduce end!
+allreduce start!
+1355.64
+allreduce end!
+allreduce start!
+1343.75
+allreduce end!
+allreduce start!
+1351.31
+allreduce end!
+allreduce start!
+1353.6
+allreduce end!
+allreduce start!
+1359.47
+allreduce end!
+allreduce start!
+1382.98
+allreduce end!
+allreduce start!
+1364.26
+allreduce end!
+allreduce start!
+1370.63
+allreduce end!
+allreduce start!
+1356.58
+allreduce end!
+allreduce start!
+1377.03
+allreduce end!
+allreduce start!
+1355.76
+allreduce end!
+allreduce start!
+1356.43
+allreduce end!
+allreduce start!
+1357.82
+allreduce end!
+allreduce start!
+1353.04
+allreduce end!
+allreduce start!
+1348.9
+allreduce end!
+allreduce start!
+1353.15
+allreduce end!
+allreduce start!
+1350.66
+allreduce end!
+allreduce start!
+1357.85
+allreduce end!
+allreduce start!
+1359.71
+allreduce end!
+allreduce start!
+1367.94
+allreduce end!
+allreduce start!
+1355.45
+allreduce end!
+allreduce start!
+1361.25
+allreduce end!
+allreduce start!
+1359.01
+allreduce end!
+allreduce start!
+1360.79
+allreduce end!
+allreduce start!
+1363.15
+allreduce end!
+allreduce start!
+1360.03
+allreduce end!
+allreduce start!
+1357.63
+allreduce end!
+allreduce start!
+1353.2
+allreduce end!
+allreduce start!
+1357.56
+allreduce end!
+allreduce start!
+1355.67
+allreduce end!
+allreduce start!
+1359.06
+allreduce end!
+allreduce start!
+1356.08
+allreduce end!
+allreduce start!
+1367.49
+allreduce end!
+allreduce start!
+1366.66
+allreduce end!
+allreduce start!
+1358.47
+allreduce end!
+allreduce start!
+1356.05
+allreduce end!
+allreduce start!
+1382.39
+allreduce end!
+allreduce start!
+1389.79
+allreduce end!
+allreduce start!
+1362.16
+allreduce end!
+allreduce start!
+1365.19
+allreduce end!
+allreduce start!
+1381.7
+allreduce end!
+allreduce start!
+1360
+allreduce end!
+allreduce start!
+1386.71
+allreduce end!
+allreduce start!
+1359.35
+allreduce end!
+allreduce start!
+1358.03
+allreduce end!
+allreduce start!
+1365.81
+allreduce end!
+allreduce start!
+1362.53
+allreduce end!
+allreduce start!
+1363.01
+allreduce end!
+allreduce start!
+1388.17
+allreduce end!
+allreduce start!
+1358
+allreduce end!
+allreduce start!
+1355.64
+allreduce end!
+allreduce start!
+1359.8
+allreduce end!
+allreduce start!
+1359.83
+allreduce end!
+allreduce start!
+1355.22
+allreduce end!
+allreduce start!
+1357.19
+allreduce end!
+allreduce start!
+1365.02
+allreduce end!
+allreduce start!
+1358.92
+allreduce end!
+allreduce start!
+1366.39
+allreduce end!
+allreduce start!
+1354.91
+allreduce end!
+allreduce start!
+1365.26
+allreduce end!
+allreduce start!
+1355.33
+allreduce end!
+allreduce start!
+1361.94
+allreduce end!
+allreduce start!
+1361.23
+allreduce end!
+allreduce start!
+1384.93
+allreduce end!
+allreduce start!
+1363
+allreduce end!
+allreduce start!
+1357.22
+allreduce end!
+allreduce start!
+1361.64
+allreduce end!
+allreduce start!
+1409.74
+allreduce end!
+allreduce start!
+1394.41
+allreduce end!
+allreduce start!
+1384.8
+allreduce end!
+allreduce start!
+1374.07
+allreduce end!
+allreduce start!
+1376.33
+allreduce end!
+allreduce start!
+1376.28
+allreduce end!
+allreduce start!
+1362.85
+allreduce end!
+allreduce start!
+1368.6
+allreduce end!
+allreduce start!
+1359.08
+allreduce end!
+allreduce start!
+1366.45
+allreduce end!
+allreduce start!
+1366.59
+allreduce end!
+allreduce start!
+1363.95
+allreduce end!
+allreduce start!
+1363.04
+allreduce end!
+allreduce start!
+1363
+allreduce end!
+allreduce start!
+12524.2
+allreduce end!
+allreduce start!
+3099.74
+allreduce end!
+allreduce start!
+3087.99
+allreduce end!
+allreduce start!
+3107.9
+allreduce end!
+allreduce start!
+3134.71
+allreduce end!
+allreduce start!
+3120.8
+allreduce end!
+allreduce start!
+3075.05
+allreduce end!
+allreduce start!
+3093.44
+allreduce end!
+allreduce start!
+3099.3
+allreduce end!
+allreduce start!
+3093.78
+allreduce end!
+allreduce start!
+3079.42
+allreduce end!
+allreduce start!
+3118.39
+allreduce end!
+allreduce start!
+3152.94
+allreduce end!
+allreduce start!
+3104.15
+allreduce end!
+allreduce start!
+3168.69
+allreduce end!
+allreduce start!
+3105.56
+allreduce end!
+allreduce start!
+3122.33
+allreduce end!
+allreduce start!
+3166.14
+allreduce end!
+allreduce start!
+3111.41
+allreduce end!
+allreduce start!
+3134.59
+allreduce end!
+allreduce start!
+3333.53
+allreduce end!
+allreduce start!
+3092.78
+allreduce end!
+allreduce start!
+3139.99
+allreduce end!
+allreduce start!
+3177.08
+allreduce end!
+allreduce start!
+3108.21
+allreduce end!
+allreduce start!
+3173.26
+allreduce end!
+allreduce start!
+3134.48
+allreduce end!
+allreduce start!
+3160.16
+allreduce end!
+allreduce start!
+3127.99
+allreduce end!
+allreduce start!
+3132.36
+allreduce end!
+allreduce start!
+3145.3
+allreduce end!
+allreduce start!
+3266.84
+allreduce end!
+allreduce start!
+3198.77
+allreduce end!
+allreduce start!
+3138.96
+allreduce end!
+allreduce start!
+3159.16
+allreduce end!
+allreduce start!
+3149.53
+allreduce end!
+allreduce start!
+3150.24
+allreduce end!
+allreduce start!
+3205.45
+allreduce end!
+allreduce start!
+3156.69
+allreduce end!
+allreduce start!
+3149.29
+allreduce end!
+allreduce start!
+3143
+allreduce end!
+allreduce start!
+3159.82
+allreduce end!
+allreduce start!
+3179.06
+allreduce end!
+allreduce start!
+3134.13
+allreduce end!
+allreduce start!
+3163.17
+allreduce end!
+allreduce start!
+3143.32
+allreduce end!
+allreduce start!
+3595.62
+allreduce end!
+allreduce start!
+3136.1
+allreduce end!
+allreduce start!
+3147.5
+allreduce end!
+allreduce start!
+3144.46
+allreduce end!
+allreduce start!
+3159.07
+allreduce end!
+allreduce start!
+3258.47
+allreduce end!
+allreduce start!
+3193.88
+allreduce end!
+allreduce start!
+3192.37
+allreduce end!
+allreduce start!
+3199.24
+allreduce end!
+allreduce start!
+3146.56
+allreduce end!
+allreduce start!
+3179.46
+allreduce end!
+allreduce start!
+3161.15
+allreduce end!
+allreduce start!
+3165.71
+allreduce end!
+allreduce start!
+3170.91
+allreduce end!
+allreduce start!
+3151.45
+allreduce end!
+allreduce start!
+3182.74
+allreduce end!
+allreduce start!
+3154.43
+allreduce end!
+allreduce start!
+3158.07
+allreduce end!
+allreduce start!
+3166.49
+allreduce end!
+allreduce start!
+3194.73
+allreduce end!
+allreduce start!
+3155.77
+allreduce end!
+allreduce start!
+3148.37
+allreduce end!
+allreduce start!
+3173.2
+allreduce end!
+allreduce start!
+3325.4
+allreduce end!
+allreduce start!
+3142.34
+allreduce end!
+allreduce start!
+3261.39
+allreduce end!
+allreduce start!
+3174.15
+allreduce end!
+allreduce start!
+3148.82
+allreduce end!
+allreduce start!
+3211.26
+allreduce end!
+allreduce start!
+3153.57
+allreduce end!
+allreduce start!
+3162.51
+allreduce end!
+allreduce start!
+3156.91
+allreduce end!
+allreduce start!
+3150.18
+allreduce end!
+allreduce start!
+3203.71
+allreduce end!
+allreduce start!
+3144.59
+allreduce end!
+allreduce start!
+3166.52
+allreduce end!
+allreduce start!
+3155.34
+allreduce end!
+allreduce start!
+3193.89
+allreduce end!
+allreduce start!
+3153.68
+allreduce end!
+allreduce start!
+3164.57
+allreduce end!
+allreduce start!
+3161.39
+allreduce end!
+allreduce start!
+3158.08
+allreduce end!
+allreduce start!
+3236.24
+allreduce end!
+allreduce start!
+3142.42
+allreduce end!
+allreduce start!
+3236.66
+allreduce end!
+allreduce start!
+3170.84
+allreduce end!
+allreduce start!
+3151.29
+allreduce end!
+allreduce start!
+3211.03
+allreduce end!
+allreduce start!
+3147.8
+allreduce end!
+allreduce start!
+3172.99
+allreduce end!
+allreduce start!
+3161.89
+allreduce end!
+allreduce start!
+3188.51
+allreduce end!
+allreduce start!
+3195.03
+allreduce end!
+allreduce start!
+3160.42
+allreduce end!
+allreduce start!
+17908.1
+allreduce end!
+allreduce start!
+7338.69
+allreduce end!
+allreduce start!
+7264.9
+allreduce end!
+allreduce start!
+7232.93
+allreduce end!
+allreduce start!
+7242.46
+allreduce end!
+allreduce start!
+7377.52
+allreduce end!
+allreduce start!
+7133.81
+allreduce end!
+allreduce start!
+7145.92
+allreduce end!
+allreduce start!
+7142.96
+allreduce end!
+allreduce start!
+7164.77
+allreduce end!
+allreduce start!
+7116.51
+allreduce end!
+allreduce start!
+7182.97
+allreduce end!
+allreduce start!
+7187.25
+allreduce end!
+allreduce start!
+7189.93
+allreduce end!
+allreduce start!
+7161.11
+allreduce end!
+allreduce start!
+7273.44
+allreduce end!
+allreduce start!
+7152.92
+allreduce end!
+allreduce start!
+7139.85
+allreduce end!
+allreduce start!
+7145.26
+allreduce end!
+allreduce start!
+7127.77
+allreduce end!
+allreduce start!
+7150.73
+allreduce end!
+allreduce start!
+7146.77
+allreduce end!
+allreduce start!
+7138.14
+allreduce end!
+allreduce start!
+7155.01
+allreduce end!
+allreduce start!
+7334.74
+allreduce end!
+allreduce start!
+7203.79
+allreduce end!
+allreduce start!
+7233.11
+allreduce end!
+allreduce start!
+7232.46
+allreduce end!
+allreduce start!
+7265.36
+allreduce end!
+allreduce start!
+7191.98
+allreduce end!
+allreduce start!
+7173.38
+allreduce end!
+allreduce start!
+7191.02
+allreduce end!
+allreduce start!
+7249.36
+allreduce end!
+allreduce start!
+7268.91
+allreduce end!
+allreduce start!
+7334.42
+allreduce end!
+allreduce start!
+7203.67
+allreduce end!
+allreduce start!
+7101.46
+allreduce end!
+allreduce start!
+7183
+allreduce end!
+allreduce start!
+7187.87
+allreduce end!
+allreduce start!
+7239.79
+allreduce end!
+allreduce start!
+7172.27
+allreduce end!
+allreduce start!
+7206.17
+allreduce end!
+allreduce start!
+7155.91
+allreduce end!
+allreduce start!
+7331.89
+allreduce end!
+allreduce start!
+7301.68
+allreduce end!
+allreduce start!
+7189.05
+allreduce end!
+allreduce start!
+7274.92
+allreduce end!
+allreduce start!
+7153.85
+allreduce end!
+allreduce start!
+7168.78
+allreduce end!
+allreduce start!
+7167.57
+allreduce end!
+allreduce start!
+7154.87
+allreduce end!
+allreduce start!
+7155.89
+allreduce end!
+allreduce start!
+7149.21
+allreduce end!
+allreduce start!
+7236.77
+allreduce end!
+allreduce start!
+7299.55
+allreduce end!
+allreduce start!
+7314.35
+allreduce end!
+allreduce start!
+7317.1
+allreduce end!
+allreduce start!
+7142.59
+allreduce end!
+allreduce start!
+7363.57
+allreduce end!
+allreduce start!
+7230.92
+allreduce end!
+allreduce start!
+7199.49
+allreduce end!
+allreduce start!
+7197.55
+allreduce end!
+allreduce start!
+7292.48
+allreduce end!
+allreduce start!
+7187.75
+allreduce end!
+allreduce start!
+7189.97
+allreduce end!
+allreduce start!
+7169.97
+allreduce end!
+allreduce start!
+7224.11
+allreduce end!
+allreduce start!
+7286.93
+allreduce end!
+allreduce start!
+7252.49
+allreduce end!
+allreduce start!
+7271.89
+allreduce end!
+allreduce start!
+7198
+allreduce end!
+allreduce start!
+7258.17
+allreduce end!
+allreduce start!
+7335.34
+allreduce end!
+allreduce start!
+7216.62
+allreduce end!
+allreduce start!
+7209.28
+allreduce end!
+allreduce start!
+7151.98
+allreduce end!
+allreduce start!
+7216.91
+allreduce end!
+allreduce start!
+7202.71
+allreduce end!
+allreduce start!
+7177.84
+allreduce end!
+allreduce start!
+7196.13
+allreduce end!
+allreduce start!
+7251.34
+allreduce end!
+allreduce start!
+7188.3
+allreduce end!
+allreduce start!
+7413.26
+allreduce end!
+allreduce start!
+7254.08
+allreduce end!
+allreduce start!
+7203.19
+allreduce end!
+allreduce start!
+7186.26
+allreduce end!
+allreduce start!
+7226.17
+allreduce end!
+allreduce start!
+7230.07
+allreduce end!
+allreduce start!
+7196.02
+allreduce end!
+allreduce start!
+7464.7
+allreduce end!
+allreduce start!
+7237.92
+allreduce end!
+allreduce start!
+7205.99
+allreduce end!
+allreduce start!
+7256.84
+allreduce end!
+allreduce start!
+7206.97
+allreduce end!
+allreduce start!
+7249.74
+allreduce end!
+allreduce start!
+7246.86
+allreduce end!
+allreduce start!
+7269
+allreduce end!
+allreduce start!
+7212.34
+allreduce end!
+allreduce start!
+7185.11
+allreduce end!
+allreduce start!
+7349.84
+allreduce end!
+allreduce start!
+27083.3
+allreduce end!
+allreduce start!
+15755.7
+allreduce end!
+allreduce start!
+15848.1
+allreduce end!
+allreduce start!
+15768.5
+allreduce end!
+allreduce start!
+15595.7
+allreduce end!
+allreduce start!
+15585.5
+allreduce end!
+allreduce start!
+15638.8
+allreduce end!
+allreduce start!
+15921.8
+allreduce end!
+allreduce start!
+15718.4
+allreduce end!
+allreduce start!
+15626.6
+allreduce end!
+allreduce start!
+15651.9
+allreduce end!
+allreduce start!
+15872.2
+allreduce end!
+allreduce start!
+15631.7
+allreduce end!
+allreduce start!
+15772.5
+allreduce end!
+allreduce start!
+15657.2
+allreduce end!
+allreduce start!
+15590.7
+allreduce end!
+allreduce start!
+15675.4
+allreduce end!
+allreduce start!
+15892.6
+allreduce end!
+allreduce start!
+15773.8
+allreduce end!
+allreduce start!
+15548.8
+allreduce end!
+allreduce start!
+15762.7
+allreduce end!
+allreduce start!
+15883.2
+allreduce end!
+allreduce start!
+15879.5
+allreduce end!
+allreduce start!
+15600.6
+allreduce end!
+allreduce start!
+15633.8
+allreduce end!
+allreduce start!
+15648.2
+allreduce end!
+allreduce start!
+15762.2
+allreduce end!
+allreduce start!
+15632
+allreduce end!
+allreduce start!
+15664.7
+allreduce end!
+allreduce start!
+15599.8
+allreduce end!
+allreduce start!
+15809.4
+allreduce end!
+allreduce start!
+15624.3
+allreduce end!
+allreduce start!
+15625.6
+allreduce end!
+allreduce start!
+15641.4
+allreduce end!
+allreduce start!
+15863.9
+allreduce end!
+allreduce start!
+15754.8
+allreduce end!
+allreduce start!
+15617.5
+allreduce end!
+allreduce start!
+15685.8
+allreduce end!
+allreduce start!
+15664.4
+allreduce end!
+allreduce start!
+15649.7
+allreduce end!
+allreduce start!
+15640.2
+allreduce end!
+allreduce start!
+15645.4
+allreduce end!
+allreduce start!
+15668.9
+allreduce end!
+allreduce start!
+15812.5
+allreduce end!
+allreduce start!
+15668.2
+allreduce end!
+allreduce start!
+15851.9
+allreduce end!
+allreduce start!
+15583.9
+allreduce end!
+allreduce start!
+15632.2
+allreduce end!
+allreduce start!
+15754.4
+allreduce end!
+allreduce start!
+15580.5
+allreduce end!
+allreduce start!
+15602
+allreduce end!
+allreduce start!
+15631.1
+allreduce end!
+allreduce start!
+15695.9
+allreduce end!
+allreduce start!
+15624
+allreduce end!
+allreduce start!
+15639.9
+allreduce end!
+allreduce start!
+15684.6
+allreduce end!
+allreduce start!
+15572.7
+allreduce end!
+allreduce start!
+15793.9
+allreduce end!
+allreduce start!
+15603.9
+allreduce end!
+allreduce start!
+15648.6
+allreduce end!
+allreduce start!
+15654.4
+allreduce end!
+allreduce start!
+15655.4
+allreduce end!
+allreduce start!
+15780.4
+allreduce end!
+allreduce start!
+15681.5
+allreduce end!
+allreduce start!
+15652
+allreduce end!
+allreduce start!
+15600.7
+allreduce end!
+allreduce start!
+15714.6
+allreduce end!
+allreduce start!
+15640.2
+allreduce end!
+allreduce start!
+15637.5
+allreduce end!
+allreduce start!
+15627.2
+allreduce end!
+allreduce start!
+15586.5
+allreduce end!
+allreduce start!
+15834.2
+allreduce end!
+allreduce start!
+15637.5
+allreduce end!
+allreduce start!
+15589
+allreduce end!
+allreduce start!
+15591.7
+allreduce end!
+allreduce start!
+15749.1
+allreduce end!
+allreduce start!
+15669.4
+allreduce end!
+allreduce start!
+15619.5
+allreduce end!
+allreduce start!
+15960.9
+allreduce end!
+allreduce start!
+15593.7
+allreduce end!
+allreduce start!
+15857.2
+allreduce end!
+allreduce start!
+15565.8
+allreduce end!
+allreduce start!
+15649.4
+allreduce end!
+allreduce start!
+15586.1
+allreduce end!
+allreduce start!
+15802.8
+allreduce end!
+allreduce start!
+15642.5
+allreduce end!
+allreduce start!
+15609
+allreduce end!
+allreduce start!
+15636.6
+allreduce end!
+allreduce start!
+15823.2
+allreduce end!
+allreduce start!
+15648.2
+allreduce end!
+allreduce start!
+15612.4
+allreduce end!
+allreduce start!
+15631.5
+allreduce end!
+allreduce start!
+15657
+allreduce end!
+allreduce start!
+15958.1
+allreduce end!
+allreduce start!
+15651.8
+allreduce end!
+allreduce start!
+15686.7
+allreduce end!
+allreduce start!
+15639.7
+allreduce end!
+allreduce start!
+15646.3
+allreduce end!
+allreduce start!
+15719.3
+allreduce end!
+allreduce start!
+15682
+allreduce end!
+allreduce start!
+45063.1
+allreduce end!
+allreduce start!
+32899.5
+allreduce end!
+allreduce start!
+32278.5
+allreduce end!
+allreduce start!
+32362.1
+allreduce end!
+allreduce start!
+32699.2
+allreduce end!
+allreduce start!
+32548.8
+allreduce end!
+allreduce start!
+32376.8
+allreduce end!
+allreduce start!
+32151.1
+allreduce end!
+allreduce start!
+32198.8
+allreduce end!
+allreduce start!
+32190.2
+allreduce end!
+allreduce start!
+32196.7
+allreduce end!
+allreduce start!
+32282.8
+allreduce end!
+allreduce start!
+32417.7
+allreduce end!
+allreduce start!
+32343.7
+allreduce end!
+allreduce start!
+32182.7
+allreduce end!
+allreduce start!
+32317.1
+allreduce end!
+allreduce start!
+32125
+allreduce end!
+allreduce start!
+32269.9
+allreduce end!
+allreduce start!
+32622.4
+allreduce end!
+allreduce start!
+32669
+allreduce end!
+allreduce start!
+32113.8
+allreduce end!
+allreduce start!
+32197.3
+allreduce end!
+allreduce start!
+32254.8
+allreduce end!
+allreduce start!
+32316
+allreduce end!
+allreduce start!
+32077.6
+allreduce end!
+allreduce start!
+32295.3
+allreduce end!
+allreduce start!
+32581.9
+allreduce end!
+allreduce start!
+32183.6
+allreduce end!
+allreduce start!
+32213.5
+allreduce end!
+allreduce start!
+32177.8
+allreduce end!
+allreduce start!
+32102.9
+allreduce end!
+allreduce start!
+32509
+allreduce end!
+allreduce start!
+32321.5
+allreduce end!
+allreduce start!
+32627.2
+allreduce end!
+allreduce start!
+32462.6
+allreduce end!
+allreduce start!
+32330.1
+allreduce end!
+allreduce start!
+32116
+allreduce end!
+allreduce start!
+32190.3
+allreduce end!
+allreduce start!
+32197.1
+allreduce end!
+allreduce start!
+32303.1
+allreduce end!
+allreduce start!
+32595.4
+allreduce end!
+allreduce start!
+32235.6
+allreduce end!
+allreduce start!
+32121.7
+allreduce end!
+allreduce start!
+32255.7
+allreduce end!
+allreduce start!
+32160.1
+allreduce end!
+allreduce start!
+32355.9
+allreduce end!
+allreduce start!
+32242.7
+allreduce end!
+allreduce start!
+32436.7
+allreduce end!
+allreduce start!
+32420.7
+allreduce end!
+allreduce start!
+32246.7
+allreduce end!
+allreduce start!
+32180.8
+allreduce end!
+allreduce start!
+32208.3
+allreduce end!
+allreduce start!
+32579.7
+allreduce end!
+allreduce start!
+32251.7
+allreduce end!
+allreduce start!
+32698
+allreduce end!
+allreduce start!
+32200
+allreduce end!
+allreduce start!
+32274.3
+allreduce end!
+allreduce start!
+32178.3
+allreduce end!
+allreduce start!
+32242.2
+allreduce end!
+allreduce start!
+32310.8
+allreduce end!
+allreduce start!
+32559.5
+allreduce end!
+allreduce start!
+32517.7
+allreduce end!
+allreduce start!
+32152
+allreduce end!
+allreduce start!
+32268.6
+allreduce end!
+allreduce start!
+32400.9
+allreduce end!
+allreduce start!
+32257.3
+allreduce end!
+allreduce start!
+32353.5
+allreduce end!
+allreduce start!
+32569.4
+allreduce end!
+allreduce start!
+32246.7
+allreduce end!
+allreduce start!
+32111.4
+allreduce end!
+allreduce start!
+32227.2
+allreduce end!
+allreduce start!
+32189.7
+allreduce end!
+allreduce start!
+32075
+allreduce end!
+allreduce start!
+32347.1
+allreduce end!
+allreduce start!
+32386.8
+allreduce end!
+allreduce start!
+32372.1
+allreduce end!
+allreduce start!
+32112.2
+allreduce end!
+allreduce start!
+32208.2
+allreduce end!
+allreduce start!
+32446.3
+allreduce end!
+allreduce start!
+32206.1
+allreduce end!
+allreduce start!
+32299.2
+allreduce end!
+allreduce start!
+32397
+allreduce end!
+allreduce start!
+32248
+allreduce end!
+allreduce start!
+32274.6
+allreduce end!
+allreduce start!
+32090.1
+allreduce end!
+allreduce start!
+32130.4
+allreduce end!
+allreduce start!
+32351
+allreduce end!
+allreduce start!
+32477.1
+allreduce end!
+allreduce start!
+32557.2
+allreduce end!
+allreduce start!
+32216.7
+allreduce end!
+allreduce start!
+32304.7
+allreduce end!
+allreduce start!
+32376.3
+allreduce end!
+allreduce start!
+32138.2
+allreduce end!
+allreduce start!
+32243.7
+allreduce end!
+allreduce start!
+32779.6
+allreduce end!
+allreduce start!
+32407
+allreduce end!
+allreduce start!
+32219.3
+allreduce end!
+allreduce start!
+32268.8
+allreduce end!
+allreduce start!
+32178.1
+allreduce end!
+allreduce start!
+32296.6
+allreduce end!
+allreduce start!
+85932.7
+allreduce end!
+allreduce start!
+69249.6
+allreduce end!
+allreduce start!
+67678.1
+allreduce end!
+allreduce start!
+66770.6
+allreduce end!
+allreduce start!
+67122.4
+allreduce end!
+allreduce start!
+66789.8
+allreduce end!
+allreduce start!
+66470.5
+allreduce end!
+allreduce start!
+66231.3
+allreduce end!
+allreduce start!
+66785.5
+allreduce end!
+allreduce start!
+66064.7
+allreduce end!
+allreduce start!
+65844.3
+allreduce end!
+allreduce start!
+66382.5
+allreduce end!
+allreduce start!
+66520.5
+allreduce end!
+allreduce start!
+66251.5
+allreduce end!
+allreduce start!
+66423
+allreduce end!
+allreduce start!
+66660
+allreduce end!
+allreduce start!
+66149.4
+allreduce end!
+allreduce start!
+66178.6
+allreduce end!
+allreduce start!
+66667.8
+allreduce end!
+allreduce start!
+66536.3
+allreduce end!
+allreduce start!
+66011.7
+allreduce end!
+allreduce start!
+66586.7
+allreduce end!
+allreduce start!
+66518.4
+allreduce end!
+allreduce start!
+65846.9
+allreduce end!
+allreduce start!
+66005.1
+allreduce end!
+allreduce start!
+66695.9
+allreduce end!
+allreduce start!
+65957.2
+allreduce end!
+allreduce start!
+65818.8
+allreduce end!
+allreduce start!
+66602.8
+allreduce end!
+allreduce start!
+66525.4
+allreduce end!
+allreduce start!
+65797.5
+allreduce end!
+allreduce start!
+66046.1
+allreduce end!
+allreduce start!
+66415.5
+allreduce end!
+allreduce start!
+65666.4
+allreduce end!
+allreduce start!
+65902.9
+allreduce end!
+allreduce start!
+66603.9
+allreduce end!
+allreduce start!
+66645.7
+allreduce end!
+allreduce start!
+65899.6
+allreduce end!
+allreduce start!
+66374.4
+allreduce end!
+allreduce start!
+66333.1
+allreduce end!
+allreduce start!
+65899.1
+allreduce end!
+allreduce start!
+65873.1
+allreduce end!
+allreduce start!
+66462.1
+allreduce end!
+allreduce start!
+66083.7
+allreduce end!
+allreduce start!
+65983.6
+allreduce end!
+allreduce start!
+66125.3
+allreduce end!
+allreduce start!
+66453.8
+allreduce end!
+allreduce start!
+65793.7
+allreduce end!
+allreduce start!
+65746.5
+allreduce end!
+allreduce start!
+66288.8
+allreduce end!
+allreduce start!
+66224.2
+allreduce end!
+allreduce start!
+66200.8
+allreduce end!
+allreduce start!
+66141.8
+allreduce end!
+allreduce start!
+66520.2
+allreduce end!
+allreduce start!
+66087.2
+allreduce end!
+allreduce start!
+65852.5
+allreduce end!
+allreduce start!
+66198
+allreduce end!
+allreduce start!
+65982
+allreduce end!
+allreduce start!
+65983.8
+allreduce end!
+allreduce start!
+66452
+allreduce end!
+allreduce start!
+66552.7
+allreduce end!
+allreduce start!
+65906.8
+allreduce end!
+allreduce start!
+65885.3
+allreduce end!
+allreduce start!
+66519.6
+allreduce end!
+allreduce start!
+66170
+allreduce end!
+allreduce start!
+65888
+allreduce end!
+allreduce start!
+66490.7
+allreduce end!
+allreduce start!
+66502.8
+allreduce end!
+allreduce start!
+65987.6
+allreduce end!
+allreduce start!
+66264.6
+allreduce end!
+allreduce start!
+66839.7
+allreduce end!
+allreduce start!
+66012.2
+allreduce end!
+allreduce start!
+66118.6
+allreduce end!
+allreduce start!
+66600.9
+allreduce end!
+allreduce start!
+66732.8
+allreduce end!
+allreduce start!
+66025.2
+allreduce end!
+allreduce start!
+66534.1
+allreduce end!
+allreduce start!
+66557
+allreduce end!
+allreduce start!
+65916
+allreduce end!
+allreduce start!
+66060.8
+allreduce end!
+allreduce start!
+66541.6
+allreduce end!
+allreduce start!
+66202
+allreduce end!
+allreduce start!
+65738
+allreduce end!
+allreduce start!
+66384.1
+allreduce end!
+allreduce start!
+66111.3
+allreduce end!
+allreduce start!
+67256.8
+allreduce end!
+allreduce start!
+66030
+allreduce end!
+allreduce start!
+66589.6
+allreduce end!
+allreduce start!
+65930.4
+allreduce end!
+allreduce start!
+66063.2
+allreduce end!
+allreduce start!
+66646.4
+allreduce end!
+allreduce start!
+66463.4
+allreduce end!
+allreduce start!
+66307
+allreduce end!
+allreduce start!
+66267.9
+allreduce end!
+allreduce start!
+66472.9
+allreduce end!
+allreduce start!
+65879.8
+allreduce end!
+allreduce start!
+65902.6
+allreduce end!
+allreduce start!
+66081.7
+allreduce end!
+allreduce start!
+65963.7
+allreduce end!
+allreduce start!
+65746.5
+allreduce end!

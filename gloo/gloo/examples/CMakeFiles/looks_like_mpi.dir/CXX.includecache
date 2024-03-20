@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mpi_share/env/gloo_etc/gloo/gloo/examples/looks_like_mpi.cc
+sys/types.h
+-
+unistd.h
+-
+iostream
+-
+memory
+-
+string
+-
+gloo/allreduce.h
+-
+gloo/barrier.h
+-
+gloo/rendezvous/context.h
+-
+gloo/rendezvous/file_store.h
+-
+gloo/rendezvous/prefix_store.h
+-
+gloo/transport/tcp/device.h
+-
+
