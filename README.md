@@ -1,12 +1,12 @@
-Nezha is a gloo-based communication library system designed to provide multi-rail networks support for allreduce. In addition to supporting TCP networks, it integrates TH Express-2's GLEX network and Mellanox's SHARP network.
+hydra is a gloo-based communication library system designed to provide multi-rail networks support for allreduce. In addition to supporting TCP networks, it integrates TH Express-2's GLEX network and Mellanox's SHARP network.
 
 Currently, the code uploaded only supports multi-TCP networks architecture, In the future, we will upload the encrypted SHARP and GLEX related code, as well as support for other collective communications on multi-rail networks.
 
-# Compiling Nezha Separately for Initial Installation
+# Compiling hydra Separately for Initial Installation
 
-Follow these steps to compile Nezha separately for the first installation:
+Follow these steps to compile hydra separately for the first installation:
 
-1. Enter the Nezha main directory and execute:
+1. Enter the hydra main directory and execute:
 
 ```bash
 mkdir build
@@ -16,7 +16,7 @@ cd build
 cmake ../ [-DUSE_IBVERBS=1] [-DUSE_UCX=1] [-DBUILD_BENCHMARK=1] [-DUSE_REDIS=1]
 
 For example: 
-cmake ../ -DUSE_GLEX=1 -DCMAKE_INSTALL_PREFIX=/home/mpi_share/env/nezha_etc/installed/nezha_glex -DBUILD_BENCHMARK=1 -DUSE_REDIS=1 -DHIREDIS_ROOT_DIR=/home/mpi_share/env/nezha_etc/installed/hiredis-1.0.0 -DUSE_SHARP=1 -DUSE_GLEX_RDMA_T=1
+cmake ../ -DUSE_GLEX=1 -DCMAKE_INSTALL_PREFIX=/home/mpi_share/env/hydra_etc/installed/hydra_glex -DBUILD_BENCHMARK=1 -DUSE_REDIS=1 -DHIREDIS_ROOT_DIR=/home/mpi_share/env/hydra_etc/installed/hiredis-1.0.0 -DUSE_SHARP=1 -DUSE_GLEX_RDMA_T=1
 
 Explanation of options:
 - DUSE_GLEX and DUSE_GLEX_RDMA_T add underlying communication libraries (GLEX for MP messages, GLEX_RDMA_T for RDMA).
